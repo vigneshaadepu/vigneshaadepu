@@ -1,151 +1,126 @@
-# Hi there, I'm Vignesh Aadepu 👋
+<!-- SECTION G: VISITOR COUNTER -->
+<p align="right">
+    <img src="https://komarev.com/ghpvc/?username=vigneshaadepu&style=flat-square&color=0e75b6" alt="vigneshaadepu"/>
+</p>
 
-Welcome to my GitHub! I'm a **Full-Stack AI Engineer & Sustainability Technologist** passionate about building intelligent solutions for environmental, agricultural, and healthcare challenges. I specialize in **Deep Learning, Computer Vision, and Digital Twin ecosystems** that drive real-world impact.
+<!-- SECTION A: ANIMATED HEADER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40"/>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&width=800&lines=Full-Stack+AI+Engineer+%26+Sustainability+Technologist;Deep+Learning+%7C+Computer+Vision+%7C+Digital+Twins;Technology+should+solve+real+problems+%E2%80%94+sustainability,+food+security,+and+health+equity." alt="Typing SVG"/>
+</p>
 
----
+<!-- SECTION B: ABOUT ME -->
+## 👋 About Me
+Hi! I'm **Vignesh Aadepu**, a Full-Stack AI Engineer & Sustainability Technologist passionate about building AI-powered platforms for sustainability, agriculture, and healthcare challenges.
 
-## 🚀 About Me
+- 🔭 Building AI-powered platforms for sustainability, agriculture, and healthcare
+- 🌱 Exploring Environmental Intelligence, Precision Agriculture, and Clinical AI
+- 💡 Combining Deep Learning + IoT + Real-time Analytics for global challenges
+- 🎯 Committed to open-source development and knowledge sharing
+- 📚 Learning Reinforcement Learning, Advanced NLP, and Edge AI
+- ⚡ Fun fact: I believe technology should solve real problems — sustainability, food security, and health equity are my north star
 
-- 🔭 Building **AI-powered platforms** for sustainability, agriculture, and healthcare
-- 🌱 Actively exploring **Environmental Intelligence**, **Precision Agriculture**, and **Clinical AI**
-- 💡 Fascinated by combining **Deep Learning + IoT + Real-time Analytics** to solve pressing global challenges
-- 🎯 Committed to **open-source development** and knowledge sharing
-- 📚 Continuously learning **Reinforcement Learning**, **Advanced NLP**, and **Edge AI**
-- ⚡ Fun fact: I believe **technology should solve real problems** — sustainability, food security, and health equity are my north star
+<!-- SECTION C: TECH STACK -->
+## 🚀 Tech Stack
 
----
+**Core Languages**
 
-## 🛠️ Tech Stack & Skills
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
 
-### Core Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+**AI & ML Frameworks**
 
-### AI & ML Frameworks
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
+<a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
+<a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
+<a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/></a>
 
-### Backend & Full-Stack
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Hono](https://img.shields.io/badge/-Hono-FF6B00?style=flat&logo=hono&logoColor=white)
+**Backend & Full-Stack**
 
-### Databases & Cloud
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+<a href="https://hono.dev/"><img src="https://img.shields.io/badge/Hono-FF6B00?style=for-the-badge&logo=hono&logoColor=white"/></a>
 
----
+**Databases & Cloud**
 
-## 🏆 Featured Projects
+<a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
+<a href="https://workers.cloudflare.com/"><img src="https://img.shields.io/badge/Cloudflare-Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/></a>
 
-### 🌍 [EcoTwin: AI Digital Sustainability Platform](https://github.com/vigneshaadepu/Ecotwin)
-A **2026-standard environmental intelligence platform** for real-time planetary health monitoring and policy optimization.
+<!-- SECTION D: FEATURED PROJECTS -->
+## 📌 Featured Projects
 
-**Key Highlights:**
-- 🌐 **Multi-scenario environmental simulation** with 20+ specialized modules
-- 📊 **Planet Health Radar**: 6-axis vector sustainability analysis
-- 🤖 **Deep Reinforcement Learning**: DQN-based policy optimization engine
-- 🔮 **LSTM Neural Simulator**: 10-year trend projections with confidence intervals
-- 🛰️ **Real-time Telemetry**: NASA EONET, EU ETS carbon markets, Open-Meteo weather integration
-- 🎨 **Synthwave Eco Design**: High-performance command center visualization
+### 🌍 [EcoTwin](https://github.com/vigneshaadepu/Ecotwin)
+> AI Digital Sustainability Platform
+> 
+> Multi-scenario environmental simulation, DQN-based policy optimization, LSTM 10-year projections, NASA/EU ETS/Open-Meteo integration.  
+> **Stack:** JavaScript, Node.js, WebGL, Server-Sent Events, SHAP
 
-**Tech Stack:** JavaScript | Node.js | WebGL | Server-Sent Events | SHAP (Explainable AI)
+### 🌾 [Krishi AI](https://github.com/vigneshaadepu/Krishi-Ai)
+> Smart Farming Ecosystem
+> 
+> MobileNetV3 plant disease detection, 101+ pest identification, soil intelligence, multilingual AI chatbot.  
+> **Stack:** Python (FastAPI), PyTorch, OpenCV, Scikit-Learn, JavaScript
 
----
+### 🧬 [NutriScan AI](https://github.com/vigneshaadepu/Malnutrition_detection)
+> Clinical Malnutrition Surveillance Suite
+> 
+> WHO Z-Score calculator, biometric morphological analysis, on-device privacy-first processing.  
+> **Stack:** TypeScript (Hono), TensorFlow.js, Tailwind CSS, Cloudflare Workers, D1 SQLite
 
-### 🌾 [Krishi AI: Smart Farming Ecosystem](https://github.com/vigneshaadepu/Krishi-Ai)
-An **AI-powered agricultural platform** empowering farmers with precision diagnostics and data-driven advisory.
+**More projects:** [MSME Insurance Platform](https://github.com/vigneshaadepu/MSME_insurance) • [My Portfolio](https://github.com/vigneshaadepu/My_portfolio) • [Facepulse](https://github.com/vigneshaadepu/Facepulse) • [Steganography](https://github.com/vigneshaadepu/Steganography) • [Nexora Quiz](https://github.com/vigneshaadepu/Nexora_Quiz)
 
-**Key Highlights:**
-- 🔍 **Plant Disease Detection**: MobileNetV3 deep learning with high accuracy
-- 🐛 **Pest Identification**: Recognizes 101+ agricultural pests with treatment protocols
-- 🥔 **Soil Intelligence**: Image-based soil analysis (texture, pH, productivity index)
-- 🌾 **Crop Recommendation Engine**: Optimizes crop selection based on soil NPK and climate
-- 🤖 **Agricultural Chatbot**: Multilingual AI advisor with text-to-speech
-- 📈 **Smart Forecasting**: Risk assessment and yield prediction
+<!-- SECTION E: SOCIAL MEDIA BADGES -->
+## 🌐 Find Me Online
+<p>
+  <a href="https://linkedin.com/in/vigneshaadepu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="https://vigneshaadepu.com"><img src="https://img.shields.io/badge/Portfolio-22D3EE?logo=internet-explorer&logoColor=white&style=for-the-badge" alt="Portfolio"/></a>
+  <a href="mailto:vigneshaadepu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
+</p>
 
-**Tech Stack:** Python (FastAPI) | PyTorch | OpenCV | Scikit-Learn | JavaScript (Frontend)
-
----
-
-### 🧬 [NutriScan AI: Clinical Malnutrition Surveillance Suite](https://github.com/vigneshaadepu/Malnutrition_detection)
-A **clinical decision support system** for early detection and management of childhood malnutrition using computer vision.
-
-**Key Highlights:**
-- 👁️ **Biometric Morphological Analysis**: Visual markers detection (wasting, ribs, posture)
-- 📐 **WHO Z-Score Calculator**: Automated WHZ, HAZ, WAZ calculations
-- 🍱 **Personalized Nutritional Blueprints**: Clinical meal cycles + supplement guidelines
-- 🔐 **Privacy-First**: On-device processing, sensitive data never leaves the terminal
-- 📊 **Longitudinal Records Management**: Multi-parameter clinical history tracking
-
-**Tech Stack:** TypeScript (Hono) | TensorFlow.js | Tailwind CSS | Cloudflare Workers | D1 SQLite
-
----
-
-### 💼 More Projects
-- **[MSME Insurance Platform](https://github.com/vigneshaadepu/MSME_insurance)** - Enterprise insurance solution
-- **[My Portfolio](https://github.com/vigneshaadepu/My_portfolio)** - Personal portfolio website
-- **[Facepulse](https://github.com/vigneshaadepu/Facepulse)** - Face recognition & emotion detection
-- **[Steganography](https://github.com/vigneshaadepu/Steganography)** - Data hiding in images
-- **[Nexora Quiz](https://github.com/vigneshaadepu/Nexora_Quiz)** - Interactive quiz platform
-
----
-
+<!-- SECTION F: GITHUB STATS -->
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vigneshaadepu&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vigneshaadepu&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshaadepu&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-![Vignesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vigneshaadepu&show_icons=true&theme=dark&hide_border=true)
+<!-- SECTION G: GITHUB TROPHIES -->
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vigneshaadepu&theme=darkhub&no-frame=true"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshaadepu&layout=compact&theme=dark&hide_border=true)
-
----
-
-## 🎯 Current Focus Areas
-
-I'm actively working on:
-- 🌱 **Sustainability Tech** - Scaling environmental intelligence platforms globally
-- 🚜 **Precision Agriculture** - Democratizing AI farming tools for smallholder farmers
-- ⚕️ **Clinical AI** - Building diagnostic systems for underserved healthcare regions
-- 🔬 **Explainable AI** - Making AI decisions transparent and trustworthy
-- 🌐 **Edge AI** - Deploying models on resource-constrained devices
-
----
+<!-- SECTION H: CURRENT FOCUS & VALUES -->
+## 🎯 Current Focus
+- Sustainability Tech
+- Precision Agriculture
+- Clinical AI
+- Explainable AI
+- Edge AI
 
 ## 💡 Core Values
+- Real-world Impact
+- Accessibility
+- Open Source
+- Excellence
+- Sustainability
 
-✅ **Real-world Impact** - Technology should solve tangible problems  
-✅ **Accessibility** - Democratizing AI for communities and underprivileged regions  
-✅ **Open Source** - Contributing to the community and enabling others  
-✅ **Excellence** - High-quality, production-ready code  
-✅ **Sustainability** - Building solutions that respect our planet  
-
+<!-- SECTION I: FOOTER -->
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to collaborating on meaningful projects!
+<a href="https://linkedin.com/in/vigneshaadepu">LinkedIn</a> | <a href="https://vigneshaadepu.com">Portfolio</a> | <a href="mailto:vigneshaadepu@gmail.com">Email</a> | <a href="https://github.com/vigneshaadepu">GitHub</a>
 
-- 💼 **LinkedIn**: [linkedin.com/in/vigneshaadepu](https://linkedin.com/in/vigneshaadepu)
-- 📧 **Email**: vigneshaadepu@gmail.com
-- 🌐 **Portfolio**: [vigneshaadepu.com](https://vigneshaadepu.com)
-- 🐙 **GitHub**: [@vigneshaadepu](https://github.com/vigneshaadepu)
+> "The best technology is the one that solves real problems for real people. Whether it's helping farmers fight crop diseases, detecting malnutrition in children, or safeguarding our planet — technology has the power to transform lives."
 
----
-
-## 📈 What Drives Me
-
-> *"The best technology is the one that solves real problems for real people. Whether it's helping farmers fight crop diseases, detecting malnutrition in children, or safeguarding our planet—technology has the power to transform lives."*
-
----
-
-<div align="center">
-
-### 🌟 If my work resonates with you, feel free to star ⭐ my projects and let's build something amazing together!
+<center>
 
 **Made with ❤️ for a sustainable, equitable future.**
 
-</div>
+</center>

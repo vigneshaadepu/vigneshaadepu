@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40"/>
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&width=800&lines=Full-Stack+AI+Engineer+%26+Sustainability+Technologist;Deep+Learning+%7C+Computer+Vision+%7C+Digital+Twins;Technology+should+solve+real+problems+%E2%80%94+sustainability,+food+security,+and+health+equity." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&width=1000&lines=Full-Stack+AI+Engineer+%26+Sustainability+Technologist;Deep+Learning+%7C+Computer+Vision+%7C+Digital+Twins;Technology+should+solve+real+problems+%E2%80%94+sustainability,+food+security,+and+health+equity."/>
 </p>
 
 <!-- SECTION B: ABOUT ME -->
@@ -71,7 +71,7 @@ Hi! I'm **Vignesh Aadepu**, a Full-Stack AI Engineer & Sustainability Technologi
 > WHO Z-Score calculator, biometric morphological analysis, on-device privacy-first processing.  
 > **Stack:** TypeScript (Hono), TensorFlow.js, Tailwind CSS, Cloudflare Workers, D1 SQLite
 
-**More projects:** [MSME Insurance Platform](https://github.com/vigneshaadepu/MSME_insurance) • [My Portfolio](https://github.com/vigneshaadepu/My_portfolio) • [Facepulse](https://github.com/vigneshaadepu/Facepulse) • [Steganography](https://github.com/vigneshaadepu/Steganography) • [Nexora Quiz](https://github.com/vigneshaadepu/Nexora_Quiz)
+**More projects:** [MSME Insurance Platform](https://github.com/vigneshaadepu/MSME_insurance) • [My Portfolio](https://github.com/vigneshaadepu/My_portfolio) • [Facepulse](https://github.com/vigneshaadepu/Facepulse)
 
 <!-- SECTION E: SOCIAL MEDIA BADGES -->
 ## 🌐 Find Me Online
@@ -117,7 +117,7 @@ Hi! I'm **Vignesh Aadepu**, a Full-Stack AI Engineer & Sustainability Technologi
 
 <a href="https://linkedin.com/in/vigneshaadepu">LinkedIn</a> | <a href="https://vigneshaadepu.com">Portfolio</a> | <a href="mailto:vigneshaadepu@gmail.com">Email</a> | <a href="https://github.com/vigneshaadepu">GitHub</a>
 
-> "The best technology is the one that solves real problems for real people. Whether it's helping farmers fight crop diseases, detecting malnutrition in children, or safeguarding our planet — technology has the power to transform lives."
+> "The best technology is the one that solves real problems for real people. Whether it's helping farmers fight crop diseases, detecting malnutrition in children, or safeguarding our planet — technology should be a force for good."
 
 <center>
 

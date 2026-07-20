@@ -115,7 +115,7 @@ I'm a **Full-Stack AI Engineer & Sustainability Technologist** who builds produc
 | Project | Description |
 |---------|-------------|
 | [MSME Insurance Platform](https://github.com/vigneshaadepu) | Digital insurance solution for small and medium enterprises |
-| [My Portfolio](https://vigneshaadepu7.netlify.app) | Personal portfolio showcasing projects and experience |
+| [My Portfolio](https://vigneshaadepu7.netlify.app/) | Personal portfolio showcasing projects and experience |
 | [Facepulse](https://github.com/vigneshaadepu) | Real-time facial recognition and pulse detection system |
 | [Steganography](https://github.com/vigneshaadepu) | Secure data hiding within digital media |
 | [Nexora Quiz](https://github.com/vigneshaadepu) | Intelligent adaptive quiz platform |

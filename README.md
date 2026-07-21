@@ -90,7 +90,7 @@
         <sub>Published clinical malnutrition detection research utilizing pose estimation and WHO Z-Scores.</sub>
       </td>
       <td align="center" valign="middle">
-        <a href="https://github.com/vigneshaadepu/Malnutrition_detection"><img src="https://img.shields.io/badge/NutriScan%20AI-005571?style=for-the-badge&logo=github&logoColor=white" alt="NutriScan AI" /></a>
+        <a href="https://zenodo.org/records/19473946"><img src="https://img.shields.io/badge/NutriScan%20AI-Zenodo%20Paper-005571?style=for-the-badge&logo=zenodo&logoColor=white" alt="NutriScan AI Paper" /></a>
       </td>
     </tr>
     <tr>
@@ -165,30 +165,68 @@
 ---
 
 <!-- SECTION C: TECH STACK -->
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 🖥️ Core Languages
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<div align="center">
 
-### 🤖 AI & ML Frameworks
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" />
+<table width="100%">
+  <tr>
+    <td width="25%" align="center" valign="middle"><b>Languages</b></td>
+    <td width="75%" align="center" valign="middle">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><b>Frameworks & AI</b></td>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+      <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" />
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" alt="Hono" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><b>Cloud & Infrastructure</b></td>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" alt="AWS EC2" />
+      <img src="https://img.shields.io/badge/AWS%20Load%20Balancer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Load Balancer" />
+      <img src="https://img.shields.io/badge/Route%2053-FF9900?style=for-the-badge&logo=amazon-route53&logoColor=white" alt="Route 53" />
+      <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><b>Tools & Databases</b></td>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+      <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><b>Core Concepts</b></td>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/Deep%20Learning-00D9FF?style=for-the-badge" alt="Deep Learning" />
+      <img src="https://img.shields.io/badge/Computer%20Vision-4CAF50?style=for-the-badge" alt="Computer Vision" />
+      <img src="https://img.shields.io/badge/Reinforcement%20Learning-FF5722?style=for-the-badge" alt="Reinforcement Learning" />
+      <img src="https://img.shields.io/badge/Explainable%20AI%20(SHAP)-9C27B0?style=for-the-badge" alt="SHAP" />
+      <img src="https://img.shields.io/badge/Edge%20%26%20On--Device%20AI-E91E63?style=for-the-badge" alt="Edge AI" />
+    </td>
+  </tr>
+</table>
 
-### ⚙️ Backend & Full-Stack
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" alt="Hono" />
-
-### ☁️ Databases & Cloud
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-<img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
-<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL" />
+</div>
 
 ---
 

@@ -361,25 +361,20 @@
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=vigneshaadepu&theme=tokyonight&hide_border=true" alt="" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vigneshaadepu&show_icons=true&theme=tokyonight&hide_border=true" alt="" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=vigneshaadepu&theme=tokyonight&hide_border=true" alt="" width="49%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vigneshaadepu&show_icons=true&theme=tokyonight&hide_border=true" alt="" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshaadepu&theme=tokyonight&hide_border=true&layout=compact" alt="" width="49%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshaadepu&theme=tokyonight&hide_border=true&layout=compact" alt="" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshaadepu&theme=tokyo-night" alt="" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshaadepu&theme=tokyo-night" alt="" width="95%" />
 </div>
 
 </div>

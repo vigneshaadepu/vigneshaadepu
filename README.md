@@ -47,16 +47,18 @@
 
 <table width="100%">
   <tr>
-    <td align="center" valign="middle" style="padding: 15px;">
-      <p align="center">
-        I am a <b>Computer Science Undergrad at ALIET</b> passionate about building production-grade AI, full-stack, and cloud platforms.<br/>
-        Experienced with <b>Python, FastAPI, PyTorch, and AWS</b>, I focus on bridging deep learning research with real-world deployable systems.
+    <td align="center" valign="middle" style="padding: 24px;">
+      <p align="center" style="font-size: 16px; line-height: 1.7;">
+        <b>Hi, I'm Vignesh Aadepu!</b><br/>
+        I am a <b>Computer Science Engineer & AI Technologist</b> at <b>Andhra Loyola Institute of Engineering and Technology</b>.<br/>
+        Driven by a passion for creating high-impact solutions, I bridge the gap between <b>cutting-edge deep learning research</b> and <b>production-grade deployable full-stack & cloud systems</b>.
       </p>
+      <br/>
       <div align="center">
-        <a href="#"><img src="https://img.shields.io/badge/AI%20%26%20ML-PyTorch%20%7C%20Scikit--Learn-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Python-005571?style=flat-square&logo=fastapi&logoColor=white" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-AWS%20EC2%20%7C%20Route53-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Computer%20Vision-OpenCV%20%7C%20TensorFlow.js-27338e?style=flat-square&logo=opencv&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/AI%20%26%20ML-PyTorch%20%7C%20Scikit--Learn-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="AI & ML" />
+        <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Python-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="Backend" />
+        <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-AWS%20EC2%20%7C%20Route53-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Cloud & DevOps" />
+        <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV%20%7C%20TensorFlow.js-27338e?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
       </div>
     </td>
   </tr>
@@ -75,60 +77,56 @@
     <tr>
       <th align="center" valign="middle" width="30%">Event / Platform</th>
       <th align="left" valign="middle" width="45%">Achievement & Contribution</th>
-      <th align="center" valign="middle" width="25%">Project / Artifact</th>
+      <th align="center" valign="middle" width="25%">Project / Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center" valign="middle">
-        <a href="#"><img src="https://img.shields.io/badge/ICACSIS--2026-International%20Conference-FF5722?style=for-the-badge" /></a>
+        <img src="https://img.shields.io/badge/ICACSIS--2026-International%20Conference-FF5722?style=for-the-badge" alt="ICACSIS 2026" />
       </td>
       <td align="left" valign="middle">
         <b>📄 Published Research Paper</b><br/>
         <sub>Published clinical malnutrition detection research utilizing pose estimation and WHO Z-Scores.</sub>
       </td>
       <td align="center" valign="middle">
-        <b>NutriScan AI</b><br/>
-        <a href="https://github.com/vigneshaadepu/Malnutrition_detection">🔗 Research Paper</a>
+        <a href="https://github.com/vigneshaadepu/Malnutrition_detection"><img src="https://img.shields.io/badge/NutriScan%20AI-005571?style=for-the-badge&logo=github&logoColor=white" alt="NutriScan AI" /></a>
       </td>
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <a href="#"><img src="https://img.shields.io/badge/A--Hacks%20Hackathon-ALIET%20(2024)-4CAF50?style=for-the-badge" /></a>
+        <img src="https://img.shields.io/badge/A--Hacks%20Hackathon-ALIET%20(2024)-4CAF50?style=for-the-badge" alt="A-Hacks Hackathon" />
       </td>
       <td align="left" valign="middle">
         <b>🥇 1st Place Winner (Team Lead)</b><br/>
         <sub>Competed against <b>30+ teams</b> in a 24hr hackathon; led end-to-end model training to deployment.</sub>
       </td>
       <td align="center" valign="middle">
-        <b>Krishi AI</b><br/>
-        <a href="https://github.com/vigneshaadepu/Krishi-Ai">🌱 Repository</a>
+        <a href="https://github.com/vigneshaadepu/Krishi-Ai"><img src="https://img.shields.io/badge/Krishi%20AI-005571?style=for-the-badge&logo=github&logoColor=white" alt="Krishi AI" /></a>
       </td>
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <a href="#"><img src="https://img.shields.io/badge/CSE%20Innovathon-ALIET-9C27B0?style=for-the-badge" /></a>
+        <img src="https://img.shields.io/badge/CSE%20Innovathon-ALIET-9C27B0?style=for-the-badge" alt="CSE Innovathon" />
       </td>
       <td align="left" valign="middle">
         <b>🏆 1st Prize Winner</b><br/>
         <sub>Developed EcoTwin platform outperforming <b>~75 competing teams / 400+ students</b>.</sub>
       </td>
       <td align="center" valign="middle">
-        <b>EcoTwin</b><br/>
-        <a href="https://github.com/vigneshaadepu/Ecotwin">🌍 Repository</a>
+        <a href="https://github.com/vigneshaadepu/Ecotwin"><img src="https://img.shields.io/badge/EcoTwin-005571?style=for-the-badge&logo=github&logoColor=white" alt="EcoTwin" /></a>
       </td>
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <a href="#"><img src="https://img.shields.io/badge/AWS%20%26%20NPTEL-Certifications-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/AWS%20%26%20NPTEL-Certifications-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS & NPTEL" />
       </td>
       <td align="left" valign="middle">
         <b>📜 Verified Certifications</b><br/>
         <sub>AWS Cloud Computing & DevOps (APSSDC) and NPTEL Deep Learning Certifications.</sub>
       </td>
       <td align="center" valign="middle">
-        <b>AWS & NPTEL</b><br/>
-        <sub>Cloud & ML</sub>
+        <img src="https://img.shields.io/badge/AWS%20%26%20NPTEL-Verified-07405E?style=for-the-badge" alt="Verified" />
       </td>
     </tr>
   </tbody>
@@ -146,17 +144,17 @@
   <tr>
     <td width="33.33%" align="center" valign="top">
       <br/>
-      <a href="#"><img src="https://img.shields.io/badge/🌍%20Impact--Driven-Technology-00D9FF?style=for-the-badge" /></a><br/><br/>
+      <img src="https://img.shields.io/badge/🌍%20Impact--Driven-Technology-00D9FF?style=for-the-badge" alt="Impact Driven" /><br/><br/>
       <p align="center"><sub>Solving real human problems in food security, climate resilience & health equity.</sub></p>
     </td>
     <td width="33.33%" align="center" valign="top">
       <br/>
-      <a href="#"><img src="https://img.shields.io/badge/🔓%20Open--Source-Research-4CAF50?style=for-the-badge" /></a><br/><br/>
+      <img src="https://img.shields.io/badge/🔓%20Open--Source-Research-4CAF50?style=for-the-badge" alt="Open Source" /><br/><br/>
       <p align="center"><sub>Committed to open-source code, research publications & knowledge sharing.</sub></p>
     </td>
     <td width="33.33%" align="center" valign="top">
       <br/>
-      <a href="#"><img src="https://img.shields.io/badge/⚡%20Engineering-Rigor-FF5722?style=for-the-badge" /></a><br/><br/>
+      <img src="https://img.shields.io/badge/⚡%20Engineering-Rigor-FF5722?style=for-the-badge" alt="Engineering Rigor" /><br/><br/>
       <p align="center"><sub>Relentless focus on sub-100ms latency, high reliability & clean architecture.</sub></p>
     </td>
   </tr>
@@ -170,27 +168,27 @@
 ## 🛠️ Tech Stack
 
 ### 🖥️ Core Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
 ### 🤖 AI & ML Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" />
 
 ### ⚙️ Backend & Full-Stack
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" alt="Hono" />
 
 ### ☁️ Databases & Cloud
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
+<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL" />
 
 ---
 

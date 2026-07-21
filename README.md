@@ -354,27 +354,22 @@
 ---
 
 <!-- SECTION F: GITHUB STATS -->
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vigneshaadepu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshaadepu&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+## 📊 GitHub Stats
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshaadepu&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" width="49%" />
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vigneshaadepu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=vigneshaadepu&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
----
-
-<!-- SECTION G: GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
+<br/>
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vigneshaadepu&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshaadepu&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="55%" />
+</div>
 
 </div>
 

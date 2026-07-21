@@ -356,30 +356,30 @@
 
 <br/>
 
-<!-- CARD 1: GITHUB STATS -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vigneshaadepu&show_icons=true&theme=tokyonight&hide_border=true" alt="" width="85%" />
-</div>
+<!-- TOP ROW: GITHUB STATS (LEFT) & MOST USED LANGUAGES (RIGHT) -->
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=vigneshaadepu&show_icons=true&theme=tokyonight&hide_border=true" alt="" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshaadepu&theme=tokyonight&hide_border=true" alt="" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<!-- CARD 2: STREAK STATS -->
+<!-- BOTTOM ROW: STREAK STATS (CENTERED) -->
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=vigneshaadepu&theme=tokyonight&hide_border=true" alt="" width="85%" />
 </div>
 
 <br/>
 
-<!-- CARD 3: MOST USED LANGUAGES -->
+<!-- CONTRIBUTION ACTIVITY GRAPH (CENTERED) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshaadepu&theme=tokyonight&hide_border=true" alt="" width="85%" />
-</div>
-
-<br/>
-
-<!-- CARD 4: CONTRIBUTION ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshaadepu&theme=tokyo-night" alt="" width="85%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshaadepu&theme=tokyo-night" alt="" width="95%" />
 </div>
 
 </div>

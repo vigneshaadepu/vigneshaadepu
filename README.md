@@ -387,25 +387,114 @@
 ---
 
 <!-- SECTION H: CURRENT FOCUS & VALUES -->
-## 🎯 Current Focus
-
 <div align="center">
 
-| Domain | Focus Area |
-|--------|-----------|
-| 🌍 **Sustainability Tech** | Digital Twins, Environmental AI, Climate Modeling |
-| 🌾 **Precision Agriculture** | Computer Vision, IoT Integration, Crop Intelligence |
-| 🏥 **Clinical AI** | Malnutrition Detection, Health Equity, Privacy-First Design |
-| 🔍 **Explainable AI** | SHAP, Model Interpretability, Trust in AI |
-| ⚡ **Edge AI** | On-device inference, TensorFlow.js, Low-resource deployment |
+## 🎯 Current Focus
 
-</div>
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="center" width="35%">Impact Domain</th>
+      <th align="left" width="65%">Core Focus Area & Research</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">
+        <br/>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" width="38" alt="Globe" /><br/>
+        <b>🌍 Sustainability Tech</b>
+      </td>
+      <td align="left" valign="middle">
+        Digital Twins &bull; Environmental AI &bull; Long-Term Climate Modeling<br/>
+        <img src="https://img.shields.io/badge/Digital--Twins-00D9FF?style=flat-square" alt="Digital Twins" />
+        <img src="https://img.shields.io/badge/Climate--AI-007ACC?style=flat-square" alt="Climate AI" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <br/>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Food/Sheaf%20of%20Rice.png" width="38" alt="Rice" /><br/>
+        <b>🌾 Precision Agriculture</b>
+      </td>
+      <td align="left" valign="middle">
+        Crop Intelligence &bull; Computer Vision &bull; IoT Integration<br/>
+        <img src="https://img.shields.io/badge/Crop--Health-4CAF50?style=flat-square" alt="Crop Health" />
+        <img src="https://img.shields.io/badge/IoT--Analytics-FF9900?style=flat-square" alt="IoT Analytics" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <br/>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Activities/Microscope.png" width="38" alt="Microscope" /><br/>
+        <b>🏥 Clinical AI</b>
+      </td>
+      <td align="left" valign="middle">
+        Child Malnutrition Detection &bull; Health Equity &bull; Privacy-First Design<br/>
+        <img src="https://img.shields.io/badge/WHO--ZScores-E91E63?style=flat-square" alt="WHO Z-Scores" />
+        <img src="https://img.shields.io/badge/On--Device%20Biometrics-9C27B0?style=flat-square" alt="On Device Biometrics" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <br/>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Symbols/Magnifying%20Glass%20Tilted%20Left.png" width="38" alt="Magnifier" /><br/>
+        <b>🔍 Explainable AI</b>
+      </td>
+      <td align="left" valign="middle">
+        SHAP Interpretability &bull; Model Transparency &bull; Trustworthy AI<br/>
+        <img src="https://img.shields.io/badge/SHAP--Scoring-005571?style=flat-square" alt="SHAP Scoring" />
+        <img src="https://img.shields.io/badge/Trust--AI-FF5722?style=flat-square" alt="Trust AI" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <br/>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="38" alt="Voltage" /><br/>
+        <b>⚡ Edge AI</b>
+      </td>
+      <td align="left" valign="middle">
+        On-Device Inference &bull; TensorFlow.js &bull; Low-Resource Deployment<br/>
+        <img src="https://img.shields.io/badge/Edge--Inference-FF6F00?style=flat-square" alt="Edge Inference" />
+        <img src="https://img.shields.io/badge/Low--Resource-003B57?style=flat-square" alt="Low Resource" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br/><br/>
 
 ## 💡 Core Values
 
-<div align="center">
-
-🌍 **Real-world Impact** &nbsp;|&nbsp; ♿ **Accessibility** &nbsp;|&nbsp; 🔓 **Open Source** &nbsp;|&nbsp; ⭐ **Excellence** &nbsp;|&nbsp; 🌱 **Sustainability**
+<table width="100%">
+  <tr>
+    <td width="20%" align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/🌍%20Real--World-Impact-00D9FF?style=for-the-badge" alt="Real World Impact" /><br/><br/>
+      <sub>Engineering for tangible human solutions</sub>
+    </td>
+    <td width="20%" align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/♿%20Universal-Accessibility-4CAF50?style=for-the-badge" alt="Accessibility" /><br/><br/>
+      <sub>Inclusive tech for all communities</sub>
+    </td>
+    <td width="20%" align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/🔓%20Open-Source-9C27B0?style=for-the-badge" alt="Open Source" /><br/><br/>
+      <sub>Shared research & open collaboration</sub>
+    </td>
+    <td width="20%" align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/⭐%20Engineering-Excellence-FF9900?style=for-the-badge" alt="Excellence" /><br/><br/>
+      <sub>Sub-100ms latency & 95%+ uptime</sub>
+    </td>
+    <td width="20%" align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/🌱%20Global-Sustainability-E91E63?style=for-the-badge" alt="Sustainability" /><br/><br/>
+      <sub>Technology for a greener planet</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 

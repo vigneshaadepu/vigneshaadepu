@@ -485,72 +485,54 @@
 
 ---
 
-<!-- SECTION I: FOOTER -->
+<!-- SECTION I: LET'S CONNECT & FOOTER -->
 <div align="center">
 
-## 🤝 Let's Connect & Collaborate
-
-<p align="center">I'm always open to collaborating on impactful projects, research opportunities, and open-source contributions. Let's build something meaningful together!</p>
+## 🤝 Let's Connect
 
 <br/>
 
-<table width="100%">
-  <tr>
-    <td width="25%" align="center" valign="top" style="padding: 15px;">
-      <br/>
-      <a href="https://linkedin.com/in/vigneshaadepu">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-      <br/><br/>
-      <p align="center"><b>Networking & Career</b><br/><sub>Connect on LinkedIn</sub></p>
-    </td>
-    <td width="25%" align="center" valign="top" style="padding: 15px;">
-      <br/>
-      <a href="https://vigneshaadepu7.netlify.app/">
-        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-      </a>
-      <br/><br/>
-      <p align="center"><b>Live Demos</b><br/><sub>Visit Personal Site</sub></p>
-    </td>
-    <td width="25%" align="center" valign="top" style="padding: 15px;">
-      <br/>
-      <a href="mailto:vigneshaadepu@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-      </a>
-      <br/><br/>
-      <p align="center"><b>Direct Inquiry</b><br/><sub>Send an Email</sub></p>
-    </td>
-    <td width="25%" align="center" valign="top" style="padding: 15px;">
-      <br/>
-      <a href="https://github.com/vigneshaadepu">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-      <br/><br/>
-      <p align="center"><b>Code Repos</b><br/><sub>Follow on GitHub</sub></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <b>I'm always open to collaborating on impactful projects, research opportunities, and open-source contributions.</b><br/>
+  <i>Let's build something meaningful together.</i>
+</p>
+
+<br/>
+
+<!-- CONNECT BADGES -->
+<a href="https://linkedin.com/in/vigneshaadepu">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://vigneshaadepu7.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:vigneshaadepu@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/vigneshaadepu">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 <br/><br/>
+<br/>
 
-<table width="100%">
-  <tr>
-    <td style="padding: 22px; text-align: center;">
-      <p align="center">
-        <font size="3">💬 <i>"The best technology is the one that solves real problems for real people. Whether it's helping farmers fight crop diseases, detecting malnutrition in children, or safeguarding our planet — technology has the power to transform lives."</i></font>
-      </p>
-      <br/>
-      <p align="center"><b>— Vignesh Aadepu</b> &nbsp;&bull;&nbsp; <sub>AI & Cloud Technologist</sub></p>
-    </td>
-  </tr>
-</table>
+<!-- PERSONAL PHILOSOPHY QUOTE -->
+<blockquote align="center">
+  <p>💬 <i>"The best technology is the one that solves real problems for real people. Whether it's helping farmers fight crop diseases, detecting malnutrition in children, or safeguarding our planet — technology has the power to transform lives."</i></p>
+</blockquote>
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/Crafted%20with%20%E2%9D%A4%EF%B8%8F%20by-Vignesh%20Aadepu-FF5722?style=for-the-badge" alt="Crafted by Vignesh" />
+<p align="center">
+  ✨ <b>Made with ❤️ for a sustainable, equitable future.</b> ✨
+</p>
 
-<br/><br/>
+<br/>
 
+<!-- ANIMATED FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
 
 </div>

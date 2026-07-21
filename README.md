@@ -8,9 +8,7 @@
 
 <h1>Hi, I'm Vignesh Aadepu</h1>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=Full-Stack+AI+Engineer+%26+Sustainability+Technologist;Deep+Learning+%7C+Computer+Vision+%7C+Digital+Twins;Technology+should+solve+real+problems+%E2%80%94+always." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=Full-Stack+AI+Engineer+%26+Sustainability+Technologist;Deep+Learning+%7C+Computer+Vision+%7C+Digital+Twins;Technology+should+solve+real+problems+%E2%80%94+always." alt="Typing SVG" />
 
 <br/>
 
@@ -33,9 +31,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FF9800&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%8E%93+CS+Undergrad+%40+ALIET+(2027);%F0%9F%9A%80+Seeking+Software+%26+ML+Engineering+Internships;%F0%9F%A7%A0+AI+%26+Cloud+Technologist" alt="About Me Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FF9800&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%8E%93+CS+Undergrad+%40+ALIET+(2027);%F0%9F%9A%80+Seeking+Software+%26+ML+Engineering+Internships;%F0%9F%A7%A0+AI+%26+Cloud+Technologist" alt="About Me Typing SVG" />
 
 </div>
 
@@ -90,7 +86,7 @@
         <sub>Published clinical malnutrition detection research utilizing pose estimation and WHO Z-Scores.</sub>
       </td>
       <td align="center" valign="middle">
-        <a href="https://zenodo.org/records/19473946"><img src="https://img.shields.io/badge/NutriScan%20AI-Zenodo%20Paper-005571?style=for-the-badge&logo=zenodo&logoColor=white" alt="NutriScan AI Paper" /></a>
+        <img src="https://img.shields.io/badge/NutriScan%20AI-Zenodo%20Paper-005571?style=for-the-badge&logo=zenodo&logoColor=white" alt="NutriScan AI Paper" />
       </td>
     </tr>
     <tr>
@@ -102,7 +98,7 @@
         <sub>Competed against <b>30+ teams</b> in a 24hr hackathon; led end-to-end model training to deployment.</sub>
       </td>
       <td align="center" valign="middle">
-        <a href="https://github.com/vigneshaadepu/Krishi-Ai"><img src="https://img.shields.io/badge/Krishi%20AI-005571?style=for-the-badge&logo=github&logoColor=white" alt="Krishi AI" /></a>
+        <img src="https://img.shields.io/badge/Krishi%20AI-005571?style=for-the-badge&logo=github&logoColor=white" alt="Krishi AI" />
       </td>
     </tr>
     <tr>
@@ -114,7 +110,7 @@
         <sub>Developed EcoTwin platform outperforming <b>~75 competing teams / 400+ students</b>.</sub>
       </td>
       <td align="center" valign="middle">
-        <a href="https://github.com/vigneshaadepu/Ecotwin"><img src="https://img.shields.io/badge/EcoTwin-005571?style=for-the-badge&logo=github&logoColor=white" alt="EcoTwin" /></a>
+        <img src="https://img.shields.io/badge/EcoTwin-005571?style=for-the-badge&logo=github&logoColor=white" alt="EcoTwin" />
       </td>
     </tr>
     <tr>
@@ -242,7 +238,7 @@
   <tr>
     <td style="padding: 20px;">
       <div align="left">
-        <h3>🌍 <a href="https://github.com/vigneshaadepu/Ecotwin">EcoTwin</a> &nbsp;<sub>· AI Digital Sustainability Platform</sub></h3>
+        <h3>🌍 EcoTwin &nbsp;<sub>· AI Digital Sustainability Platform</sub></h3>
         <p>Multi-scenario environmental simulation with reinforcement learning and long-term climate forecasting.</p>
         <ul>
           <li>🧠 <b>DQN Policy Optimization:</b> AI-driven sustainability intervention modeling</li>
@@ -268,7 +264,7 @@
   <tr>
     <td style="padding: 20px;">
       <div align="left">
-        <h3>🌾 <a href="https://github.com/vigneshaadepu/Krishi-Ai">Krishi AI</a> &nbsp;<sub>· Smart Farming Ecosystem</sub></h3>
+        <h3>🌾 Krishi AI &nbsp;<sub>· Smart Farming Ecosystem</sub></h3>
         <p>An end-to-end precision agriculture platform empowering farmers with AI-driven insights.</p>
         <ul>
           <li>🦠 <b>MobileNetV3 Disease Detection:</b> 95%+ accuracy across 54,000+ plant images</li>
@@ -293,7 +289,7 @@
   <tr>
     <td style="padding: 20px;">
       <div align="left">
-        <h3>🧬 <a href="https://zenodo.org/records/19473946">NutriScan AI</a> &nbsp;<sub>· Clinical Malnutrition Surveillance Suite</sub></h3>
+        <h3>🧬 NutriScan AI &nbsp;<sub>· Clinical Malnutrition Surveillance Suite</sub></h3>
         <p>Privacy-first, on-device clinical tool for child malnutrition detection and growth monitoring.</p>
         <ul>
           <li>📊 <b>WHO Z-Score Calculator:</b> Standardized clinical assessment engine</li>
@@ -327,23 +323,23 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/vigneshaadepu"><b>MSME Insurance Platform</b></a></td>
+      <td><b>MSME Insurance Platform</b></td>
       <td>Digital insurance solution for small and medium enterprises</td>
     </tr>
     <tr>
-      <td><a href="https://vigneshaadepu7.netlify.app/"><b>Personal Portfolio</b></a></td>
+      <td><b>Personal Portfolio</b></td>
       <td>Personal portfolio showcasing projects, experience, and research</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/vigneshaadepu"><b>Facepulse</b></a></td>
+      <td><b>Facepulse</b></td>
       <td>Real-time facial recognition and pulse detection system</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/vigneshaadepu"><b>Steganography</b></a></td>
+      <td><b>Steganography</b></td>
       <td>Secure data hiding within digital media using spatial domain techniques</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/vigneshaadepu"><b>Nexora Quiz</b></a></td>
+      <td><b>Nexora Quiz</b></td>
       <td>Intelligent adaptive quiz platform with real-time analytics</td>
     </tr>
   </tbody>

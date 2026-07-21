@@ -358,9 +358,9 @@
 
 <!-- DYNAMIC GITHUB STATS & MOST USED LANGUAGES BOXES -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vigneshaadepu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vigneshaadepu&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshaadepu&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vigneshaadepu&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Most Used Languages" />
 </p>
 
 <br/>

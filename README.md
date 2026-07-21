@@ -33,22 +33,29 @@
 
 <div align="center">
 
+<!-- ANIMATED DOMAIN PILLARS -->
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Sustainability" width="48" /><br/><br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Sustainability" width="60" /><br/><br/>
       <b>🌍 Sustainability Tech</b><br/>
-      <sub>Climate Modeling & Digital Twins</sub>
+      <sub>Climate Modeling & Digital Twins</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Digital--Twins-00D9FF?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Climate--AI-007ACC?style=flat-square&logoColor=white" />
     </td>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Food/Sheaf%20of%20Rice.png" alt="Agriculture" width="48" /><br/><br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Food/Sheaf%20of%20Rice.png" alt="Agriculture" width="60" /><br/><br/>
       <b>🌾 Precision Agriculture</b><br/>
-      <sub>Crop Intelligence & Disease Detection</sub>
+      <sub>Crop Intelligence & Disease Detection</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Computer--Vision-FF5722?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Crop--Health-4CAF50?style=flat-square&logoColor=white" />
     </td>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Activities/Microscope.png" alt="Healthcare" width="48" /><br/><br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Activities/Microscope.png" alt="Healthcare" width="60" /><br/><br/>
       <b>🏥 Clinical AI</b><br/>
-      <sub>On-Device Biometrics & Child Health</sub>
+      <sub>On-Device Biometrics & Child Health</sub><br/><br/>
+      <img src="https://img.shields.io/badge/On--Device-9C27B0?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/WHO--ZScores-E91E63?style=flat-square&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -57,30 +64,45 @@
 
 <br/>
 
-> 💡 **Who I Am:** I'm a **Full-Stack AI Engineer & Sustainability Technologist** bridging the gap between cutting-edge deep learning research and production-grade deployable systems that tackle humanity's most pressing challenges.
+### ⚡ Developer Profile `vignesh.config.json`
+
+```json
+{
+  "engineer": "Vignesh Aadepu",
+  "role": "Full-Stack AI Engineer & Sustainability Technologist",
+  "mission": "Bridging deep learning research with deployable, real-world systems",
+  "impact_domains": ["Environmental Intelligence", "Precision Agriculture", "Clinical AI"],
+  "tech_fusion": ["Deep Learning", "IoT", "Edge AI", "Real-Time Analytics"],
+  "north_star": "Technology should solve real problems — sustainability, food security & health equity."
+}
+```
 
 <br/>
+
+<div align="center">
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>⚡ What I'm Doing</h4>
+      <h4>🚀 Active Endeavors</h4>
       <ul>
         <li>🔭 <b>Building:</b> AI-powered platforms for sustainability, agriculture & healthcare</li>
-        <li>🌱 <b>Exploring:</b> Environmental Intelligence & Edge AI systems</li>
-        <li>💡 <b>Combining:</b> Deep Learning + IoT + Real-time Analytics</li>
+        <li>🌱 <b>Exploring:</b> Reinforcement Learning for environmental policy optimization</li>
+        <li>💡 <b>Combining:</b> PyTorch + FastAPI + WebGL + Edge AI</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🎯 Goals & Mindset</h4>
+      <h4>🎯 Core Mindset</h4>
       <ul>
-        <li>🎯 <b>Commitment:</b> Dedicated to open-source & knowledge sharing</li>
-        <li>📚 <b>Learning:</b> Reinforcement Learning, Advanced NLP & Edge AI</li>
-        <li>⚡ <b>North Star:</b> Technology must create real-world, positive impact</li>
+        <li>🔓 <b>Open Source:</b> Dedicated to community growth & shared knowledge</li>
+        <li>📚 <b>Continuous Growth:</b> Mastering Advanced NLP & Edge Inference</li>
+        <li>⚡ <b>Philosophy:</b> Engineering for tangible, positive real-world impact</li>
       </ul>
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 

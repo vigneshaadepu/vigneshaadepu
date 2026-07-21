@@ -394,15 +394,13 @@
 <table width="100%">
   <thead>
     <tr>
-      <th align="center" width="35%">Impact Domain</th>
-      <th align="left" width="65%">Core Focus Area & Research</th>
+      <th align="center" width="30%">Domain</th>
+      <th align="left" width="70%">Focus Area & Key Innovations</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center" valign="middle">
-        <br/>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" width="38" alt="Globe" /><br/>
         <b>🌍 Sustainability Tech</b>
       </td>
       <td align="left" valign="middle">
@@ -413,8 +411,6 @@
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <br/>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Food/Sheaf%20of%20Rice.png" width="38" alt="Rice" /><br/>
         <b>🌾 Precision Agriculture</b>
       </td>
       <td align="left" valign="middle">
@@ -425,20 +421,16 @@
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <br/>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Activities/Microscope.png" width="38" alt="Microscope" /><br/>
         <b>🏥 Clinical AI</b>
       </td>
       <td align="left" valign="middle">
         Child Malnutrition Detection &bull; Health Equity &bull; Privacy-First Design<br/>
         <img src="https://img.shields.io/badge/WHO--ZScores-E91E63?style=flat-square" alt="WHO Z-Scores" />
-        <img src="https://img.shields.io/badge/On--Device%20Biometrics-9C27B0?style=flat-square" alt="On Device Biometrics" />
+        <img src="https://img.shields.io/badge/On--Device%20Biometrics-9C27B0?style=flat-square" alt="On-Device Biometrics" />
       </td>
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <br/>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Symbols/Magnifying%20Glass%20Tilted%20Left.png" width="38" alt="Magnifier" /><br/>
         <b>🔍 Explainable AI</b>
       </td>
       <td align="left" valign="middle">
@@ -449,8 +441,6 @@
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <br/>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="38" alt="Voltage" /><br/>
         <b>⚡ Edge AI</b>
       </td>
       <td align="left" valign="middle">
@@ -470,27 +460,27 @@
   <tr>
     <td width="20%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/🌍%20Real--World-Impact-00D9FF?style=for-the-badge" alt="Real World Impact" /><br/><br/>
+      <img src="https://img.shields.io/badge/🌍%20Impact-Driven-00D9FF?style=for-the-badge" alt="Impact Driven" /><br/><br/>
       <sub>Engineering for tangible human solutions</sub>
     </td>
     <td width="20%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/♿%20Universal-Accessibility-4CAF50?style=for-the-badge" alt="Accessibility" /><br/><br/>
+      <img src="https://img.shields.io/badge/♿%20Accessibility-4CAF50?style=for-the-badge" alt="Accessibility" /><br/><br/>
       <sub>Inclusive tech for all communities</sub>
     </td>
     <td width="20%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/🔓%20Open-Source-9C27B0?style=for-the-badge" alt="Open Source" /><br/><br/>
+      <img src="https://img.shields.io/badge/🔓%20Open%20Source-9C27B0?style=for-the-badge" alt="Open Source" /><br/><br/>
       <sub>Shared research & open collaboration</sub>
     </td>
     <td width="20%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/⭐%20Engineering-Excellence-FF9900?style=for-the-badge" alt="Excellence" /><br/><br/>
-      <sub>Sub-100ms latency & 95%+ uptime</sub>
+      <img src="https://img.shields.io/badge/⭐%20Excellence-FF9900?style=for-the-badge" alt="Excellence" /><br/><br/>
+      <sub>Sub-100ms latency & high uptime</sub>
     </td>
     <td width="20%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/🌱%20Global-Sustainability-E91E63?style=for-the-badge" alt="Sustainability" /><br/><br/>
+      <img src="https://img.shields.io/badge/🌱%20Sustainability-E91E63?style=for-the-badge" alt="Sustainability" /><br/><br/>
       <sub>Technology for a greener planet</sub>
     </td>
   </tr>

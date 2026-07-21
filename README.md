@@ -86,7 +86,7 @@
         <sub>Published clinical malnutrition detection research utilizing pose estimation and WHO Z-Scores.</sub>
       </td>
       <td align="center" valign="middle">
-        <a href="https://drive.google.com/file/d/14SqQdCvq_RvnBLW7Ersu7yUaLidAb6VB/view?usp=drive_link"><img src="https://img.shields.io/badge/NutriScan%20AI-Research%20Paper-005571?style=for-the-badge&logo=google-drive&logoColor=white" alt="" /></a>
+        <a href="https://drive.google.com/file/d/14SqQdCvq_RvnBLW7Ersu7yUaLidAb6VB/view?usp=drive_link"><img src="https://img.shields.io/badge/NutriScan%20AI-005571?style=for-the-badge" alt="" /></a>
       </td>
     </tr>
     <tr>
@@ -98,7 +98,7 @@
         <sub>Competed against <b>30+ teams</b> in a 24hr hackathon; led end-to-end model training to deployment.</sub>
       </td>
       <td align="center" valign="middle">
-        <a href="https://github.com/vigneshaadepu/Krishi-Ai"><img src="https://img.shields.io/badge/Krishi%20AI-GitHub%20Repo-005571?style=for-the-badge&logo=github&logoColor=white" alt="" /></a>
+        <a href="https://github.com/vigneshaadepu/Krishi-Ai"><img src="https://img.shields.io/badge/Krishi%20AI-005571?style=for-the-badge" alt="" /></a>
       </td>
     </tr>
     <tr>
@@ -110,7 +110,7 @@
         <sub>Developed EcoTwin platform outperforming <b>~75 competing teams / 400+ students</b>.</sub>
       </td>
       <td align="center" valign="middle">
-        <a href="https://github.com/vigneshaadepu/Ecotwin"><img src="https://img.shields.io/badge/EcoTwin-GitHub%20Repo-005571?style=for-the-badge&logo=github&logoColor=white" alt="" /></a>
+        <a href="https://github.com/vigneshaadepu/Ecotwin"><img src="https://img.shields.io/badge/EcoTwin-005571?style=for-the-badge" alt="" /></a>
       </td>
     </tr>
     <tr>
@@ -122,7 +122,7 @@
         <sub>AWS Cloud Computing & DevOps (APSSDC) and NPTEL Deep Learning Certifications.</sub>
       </td>
       <td align="center" valign="middle">
-        <a href="https://drive.google.com/drive/folders/1X6sRqdC00V00i4Li-EYForKohONOdOZw?usp=sharing"><img src="https://img.shields.io/badge/Certificates-Google%20Drive-FF9900?style=for-the-badge&logo=google-drive&logoColor=white" alt="" /></a>
+        <a href="https://drive.google.com/drive/folders/1X6sRqdC00V00i4Li-EYForKohONOdOZw?usp=sharing"><img src="https://img.shields.io/badge/Certifications-005571?style=for-the-badge" alt="" /></a>
       </td>
     </tr>
   </tbody>

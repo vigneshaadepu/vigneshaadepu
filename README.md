@@ -358,16 +358,16 @@
 
 <!-- DYNAMIC GITHUB STATS & MOST USED LANGUAGES BOXES -->
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vigneshaadepu&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vigneshaadepu&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vigneshaadepu&show_icons=true&theme=tokyonight" height="192" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vigneshaadepu&layout=compact&theme=tokyonight" height="192" alt="Most Used Languages" />
 </p>
 
 <br/>
 
 <!-- CARD: STREAK STATS -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=vigneshaadepu&theme=tokyonight&hide_border=true" alt="Streak Stats" width="85%" />
+  <img src="https://streak-stats.demolab.com/?user=vigneshaadepu&theme=tokyonight" alt="Streak Stats" />
 </div>
 
 <br/>

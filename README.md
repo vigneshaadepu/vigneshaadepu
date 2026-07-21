@@ -86,7 +86,7 @@
         <sub>Published clinical malnutrition detection research utilizing pose estimation and WHO Z-Scores.</sub>
       </td>
       <td align="center" valign="middle">
-        <a href="#0"><img src="https://img.shields.io/badge/NutriScan%20AI-Zenodo%20Paper-005571?style=for-the-badge&logo=zenodo&logoColor=white" alt="" /></a>
+        <a href="https://drive.google.com/file/d/14SqQdCvq_RvnBLW7Ersu7yUaLidAb6VB/view?usp=drive_link"><img src="https://img.shields.io/badge/NutriScan%20AI-Research%20Paper-005571?style=for-the-badge&logo=google-drive&logoColor=white" alt="" /></a>
       </td>
     </tr>
     <tr>
@@ -98,7 +98,7 @@
         <sub>Competed against <b>30+ teams</b> in a 24hr hackathon; led end-to-end model training to deployment.</sub>
       </td>
       <td align="center" valign="middle">
-        <a href="#0"><img src="https://img.shields.io/badge/Krishi%20AI-005571?style=for-the-badge&logo=github&logoColor=white" alt="" /></a>
+        <a href="https://github.com/vigneshaadepu/Krishi-Ai"><img src="https://img.shields.io/badge/Krishi%20AI-GitHub%20Repo-005571?style=for-the-badge&logo=github&logoColor=white" alt="" /></a>
       </td>
     </tr>
     <tr>
@@ -110,7 +110,7 @@
         <sub>Developed EcoTwin platform outperforming <b>~75 competing teams / 400+ students</b>.</sub>
       </td>
       <td align="center" valign="middle">
-        <a href="#0"><img src="https://img.shields.io/badge/EcoTwin-005571?style=for-the-badge&logo=github&logoColor=white" alt="" /></a>
+        <a href="https://github.com/vigneshaadepu/Ecotwin"><img src="https://img.shields.io/badge/EcoTwin-GitHub%20Repo-005571?style=for-the-badge&logo=github&logoColor=white" alt="" /></a>
       </td>
     </tr>
     <tr>
@@ -122,7 +122,7 @@
         <sub>AWS Cloud Computing & DevOps (APSSDC) and NPTEL Deep Learning Certifications.</sub>
       </td>
       <td align="center" valign="middle">
-        <a href="#0"><img src="https://img.shields.io/badge/AWS%20%26%20NPTEL-Verified-07405E?style=for-the-badge" alt="" /></a>
+        <a href="https://drive.google.com/drive/folders/1X6sRqdC00V00i4Li-EYForKohONOdOZw?usp=sharing"><img src="https://img.shields.io/badge/Certificates-Google%20Drive-FF9900?style=for-the-badge&logo=google-drive&logoColor=white" alt="" /></a>
       </td>
     </tr>
   </tbody>
@@ -349,28 +349,37 @@
 
 ---
 
-<!-- SECTION F: GITHUB STATS -->
+<!-- SECTION F: GITHUB STATS & ACTIVITY -->
 <div align="center">
 
 ## 📊 GitHub Stats & Activity
 
 <br/>
 
+<!-- CARD 1: GITHUB STATS -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vigneshaadepu&show_icons=true&theme=tokyonight&hide_border=true" alt="" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=vigneshaadepu&theme=tokyonight&hide_border=true" alt="" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vigneshaadepu&show_icons=true&theme=tokyonight&hide_border=true" alt="" width="85%" />
 </div>
 
 <br/>
 
+<!-- CARD 2: STREAK STATS -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshaadepu&theme=tokyonight&hide_border=true&layout=compact" alt="" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=vigneshaadepu&theme=tokyonight&hide_border=true" alt="" width="85%" />
 </div>
 
 <br/>
 
+<!-- CARD 3: MOST USED LANGUAGES (MATCHING REFERENCE IMAGE) -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshaadepu&theme=tokyo-night" alt="" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshaadepu&theme=tokyonight&hide_border=true" alt="" width="85%" />
+</div>
+
+<br/>
+
+<!-- CARD 4: CONTRIBUTION ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshaadepu&theme=tokyo-night" alt="" width="85%" />
 </div>
 
 </div>

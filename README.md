@@ -356,19 +356,25 @@
 <!-- SECTION F: GITHUB STATS -->
 <div align="center">
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vigneshaadepu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=vigneshaadepu&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vigneshaadepu&show_icons=true&theme=tokyonight&hide_border=true" alt="" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=vigneshaadepu&theme=tokyonight&hide_border=true" alt="" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshaadepu&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshaadepu&theme=tokyonight&hide_border=true&layout=compact" alt="" width="55%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshaadepu&theme=tokyo-night" alt="" width="100%" />
 </div>
 
 </div>

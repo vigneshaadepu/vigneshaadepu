@@ -372,7 +372,7 @@
 <!-- CARD: STREAK STATS -->
 <div align="center">
   <a href="#0">
-    <img src="https://streak-stats.demolab.com/?user=vigneshaadepu&theme=tokyonight" height="195" alt="Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=vigneshaadepu&theme=tokyonight&v=1" height="195" alt="Streak Stats" />
   </a>
 </div>
 

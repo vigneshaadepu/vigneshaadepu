@@ -45,18 +45,19 @@
 
 ### 🌟 Who I Am & My Mission
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center">
+    <td align="center" valign="middle" style="padding: 15px;">
       <p align="center">
         I am a <b>Computer Science Undergrad at ALIET</b> passionate about building production-grade AI, full-stack, and cloud platforms.<br/>
         Experienced with <b>Python, FastAPI, PyTorch, and AWS</b>, I focus on bridging deep learning research with real-world deployable systems.
       </p>
-      <br/>
-      <img src="https://img.shields.io/badge/AI%20%26%20ML-PyTorch%20%7C%20Scikit--Learn-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Python-005571?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-AWS%20EC2%20%7C%20Route53-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV%20%7C%20TensorFlow.js-27338e?style=flat-square&logo=opencv&logoColor=white" />
+      <div align="center">
+        <a href="#"><img src="https://img.shields.io/badge/AI%20%26%20ML-PyTorch%20%7C%20Scikit--Learn-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Python-005571?style=flat-square&logo=fastapi&logoColor=white" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-AWS%20EC2%20%7C%20Route53-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Computer%20Vision-OpenCV%20%7C%20TensorFlow.js-27338e?style=flat-square&logo=opencv&logoColor=white" /></a>
+      </div>
     </td>
   </tr>
 </table>
@@ -65,71 +66,75 @@
 
 <br/>
 
+<div align="center">
+
 ### 🏆 Key Achievements & Honors
 
-<table>
-  <tr>
-    <th width="30%">Event / Platform</th>
-    <th width="45%">Achievement & Contribution</th>
-    <th width="25%">Project / Artifact</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <br/>
-      <img src="https://img.shields.io/badge/ICACSIS--2026-International%20Conference-FF5722?style=for-the-badge" />
-    </td>
-    <td>
-      📄 <b>Published Research Paper</b><br/>
-      <sub>Published clinical malnutrition detection research utilizing pose estimation and WHO Z-Scores.</sub>
-    </td>
-    <td>
-      <b>NutriScan AI</b><br/>
-      <a href="https://github.com/vigneshaadepu/Malnutrition_detection">🔗 Research Paper</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <br/>
-      <img src="https://img.shields.io/badge/A--Hacks%20Hackathon-ALIET%20(2024)-4CAF50?style=for-the-badge" />
-    </td>
-    <td>
-      🥇 <b>1st Place Winner (Team Lead)</b><br/>
-      <sub>Competed against <b>30+ teams</b> in a 24hr hackathon; led end-to-end model training to deployment.</sub>
-    </td>
-    <td>
-      <b>Krishi AI</b><br/>
-      <a href="https://github.com/vigneshaadepu/Krishi-Ai">🌱 Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <br/>
-      <img src="https://img.shields.io/badge/CSE%20Innovathon-ALIET-9C27B0?style=for-the-badge" />
-    </td>
-    <td>
-      🏆 <b>1st Prize Winner</b><br/>
-      <sub>Developed EcoTwin platform outperforming <b>~75 competing teams / 400+ students</b>.</sub>
-    </td>
-    <td>
-      <b>EcoTwin</b><br/>
-      <a href="https://github.com/vigneshaadepu/Ecotwin">🌍 Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <br/>
-      <img src="https://img.shields.io/badge/AWS%20%26%20NPTEL-Certifications-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    </td>
-    <td>
-      📜 <b>Verified Certifications</b><br/>
-      <sub>AWS Cloud Computing & DevOps (APSSDC) and NPTEL Deep Learning Certifications.</sub>
-    </td>
-    <td>
-      <b>AWS & NPTEL</b><br/>
-      <sub>Cloud & ML</sub>
-    </td>
-  </tr>
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="center" valign="middle" width="30%">Event / Platform</th>
+      <th align="left" valign="middle" width="45%">Achievement & Contribution</th>
+      <th align="center" valign="middle" width="25%">Project / Artifact</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="#"><img src="https://img.shields.io/badge/ICACSIS--2026-International%20Conference-FF5722?style=for-the-badge" /></a>
+      </td>
+      <td align="left" valign="middle">
+        <b>📄 Published Research Paper</b><br/>
+        <sub>Published clinical malnutrition detection research utilizing pose estimation and WHO Z-Scores.</sub>
+      </td>
+      <td align="center" valign="middle">
+        <b>NutriScan AI</b><br/>
+        <a href="https://github.com/vigneshaadepu/Malnutrition_detection">🔗 Research Paper</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="#"><img src="https://img.shields.io/badge/A--Hacks%20Hackathon-ALIET%20(2024)-4CAF50?style=for-the-badge" /></a>
+      </td>
+      <td align="left" valign="middle">
+        <b>🥇 1st Place Winner (Team Lead)</b><br/>
+        <sub>Competed against <b>30+ teams</b> in a 24hr hackathon; led end-to-end model training to deployment.</sub>
+      </td>
+      <td align="center" valign="middle">
+        <b>Krishi AI</b><br/>
+        <a href="https://github.com/vigneshaadepu/Krishi-Ai">🌱 Repository</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="#"><img src="https://img.shields.io/badge/CSE%20Innovathon-ALIET-9C27B0?style=for-the-badge" /></a>
+      </td>
+      <td align="left" valign="middle">
+        <b>🏆 1st Prize Winner</b><br/>
+        <sub>Developed EcoTwin platform outperforming <b>~75 competing teams / 400+ students</b>.</sub>
+      </td>
+      <td align="center" valign="middle">
+        <b>EcoTwin</b><br/>
+        <a href="https://github.com/vigneshaadepu/Ecotwin">🌍 Repository</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="#"><img src="https://img.shields.io/badge/AWS%20%26%20NPTEL-Certifications-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+      </td>
+      <td align="left" valign="middle">
+        <b>📜 Verified Certifications</b><br/>
+        <sub>AWS Cloud Computing & DevOps (APSSDC) and NPTEL Deep Learning Certifications.</sub>
+      </td>
+      <td align="center" valign="middle">
+        <b>AWS & NPTEL</b><br/>
+        <sub>Cloud & ML</sub>
+      </td>
+    </tr>
+  </tbody>
 </table>
+
+</div>
 
 <br/>
 
@@ -137,19 +142,22 @@
 
 ### 💡 Personal Values & Industry Philosophy
 
-<table>
+<table width="100%">
   <tr>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/🌍%20Impact--Driven-Technology-00D9FF?style=for-the-badge" /><br/><br/>
-      <sub>Solving real human problems in food security, climate resilience & health equity.</sub>
+    <td width="33.33%" align="center" valign="top">
+      <br/>
+      <a href="#"><img src="https://img.shields.io/badge/🌍%20Impact--Driven-Technology-00D9FF?style=for-the-badge" /></a><br/><br/>
+      <p align="center"><sub>Solving real human problems in food security, climate resilience & health equity.</sub></p>
     </td>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/🔓%20Open--Source-Research-4CAF50?style=for-the-badge" /><br/><br/>
-      <sub>Committed to open-source code, research publications & knowledge sharing.</sub>
+    <td width="33.33%" align="center" valign="top">
+      <br/>
+      <a href="#"><img src="https://img.shields.io/badge/🔓%20Open--Source-Research-4CAF50?style=for-the-badge" /></a><br/><br/>
+      <p align="center"><sub>Committed to open-source code, research publications & knowledge sharing.</sub></p>
     </td>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/⚡%20Engineering-Rigor-FF5722?style=for-the-badge" /><br/><br/>
-      <sub>Relentless focus on sub-100ms latency, high reliability & clean architecture.</sub>
+    <td width="33.33%" align="center" valign="top">
+      <br/>
+      <a href="#"><img src="https://img.shields.io/badge/⚡%20Engineering-Rigor-FF5722?style=for-the-badge" /></a><br/><br/>
+      <p align="center"><sub>Relentless focus on sub-100ms latency, high reliability & clean architecture.</sub></p>
     </td>
   </tr>
 </table>

@@ -165,7 +165,11 @@
 ---
 
 <!-- SECTION C: TECH STACK -->
+<div align="center">
+
 ## 🛠️ Technical Skills
+
+</div>
 
 <div align="center">
 
@@ -231,14 +235,18 @@
 ---
 
 <!-- SECTION D: FEATURED PROJECTS -->
+<div align="center">
+
 ## 🚀 Featured Projects
+
+</div>
 
 <div align="center">
 
 <!-- PROJECT 1: ECOTWIN -->
 <table width="100%">
   <tr>
-    <td style="padding: 18px;">
+    <td style="padding: 20px;" valign="top">
       <div align="left">
         <h3>🌍 <a href="https://github.com/vigneshaadepu/Ecotwin">EcoTwin</a> &nbsp;<sub>· AI Digital Sustainability Platform</sub></h3>
         <p>Multi-scenario environmental simulation with reinforcement learning and long-term climate forecasting.</p>
@@ -248,15 +256,15 @@
           <li>🛰️ <b>Real Datasets:</b> Integrated NASA, EU ETS, and Open-Meteo APIs</li>
           <li>🔍 <b>Explainable AI:</b> Integrated SHAP scoring for transparent decision-making</li>
         </ul>
-        <br/>
-        <div>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-          <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
-          <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-          <img src="https://img.shields.io/badge/SHAP-9C27B0?style=flat-square" alt="SHAP" />
-          <img src="https://img.shields.io/badge/SSE-Real--time-00D9FF?style=flat-square" alt="SSE" />
-        </div>
+      </div>
+      <br/>
+      <div align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
+        <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/SHAP-9C27B0?style=flat-square" alt="SHAP" />
+        <img src="https://img.shields.io/badge/SSE-Real--time-00D9FF?style=flat-square" alt="SSE" />
       </div>
     </td>
   </tr>
@@ -267,7 +275,7 @@
 <!-- PROJECT 2: KRISHI AI -->
 <table width="100%">
   <tr>
-    <td style="padding: 18px;">
+    <td style="padding: 20px;" valign="top">
       <div align="left">
         <h3>🌾 <a href="https://github.com/vigneshaadepu/Krishi-Ai">Krishi AI</a> &nbsp;<sub>· Smart Farming Ecosystem</sub></h3>
         <p>An end-to-end precision agriculture platform empowering farmers with AI-driven insights.</p>
@@ -277,14 +285,14 @@
           <li>🌱 <b>Soil Intelligence:</b> Analytics for crop yield optimization</li>
           <li>🌐 <b>Multilingual Chatbot:</b> AI assistant for farmer accessibility</li>
         </ul>
-        <br/>
-        <div>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-          <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-          <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white" alt="OpenCV" />
-          <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-        </div>
+      </div>
+      <br/>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white" alt="OpenCV" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
       </div>
     </td>
   </tr>
@@ -295,7 +303,7 @@
 <!-- PROJECT 3: NUTRISCAN AI -->
 <table width="100%">
   <tr>
-    <td style="padding: 18px;">
+    <td style="padding: 20px;" valign="top">
       <div align="left">
         <h3>🧬 <a href="https://zenodo.org/records/19473946">NutriScan AI</a> &nbsp;<sub>· Clinical Malnutrition Surveillance Suite</sub></h3>
         <p>Privacy-first, on-device clinical tool for child malnutrition detection and growth monitoring.</p>
@@ -305,14 +313,14 @@
           <li>🔒 <b>On-Device Processing:</b> Privacy-first edge inference — no data leaves device</li>
           <li>📄 <b>Research Paper:</b> Published at ICACSIS-2026 international conference</li>
         </ul>
-        <br/>
-        <div>
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono" />
-          <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow.js" />
-          <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-          <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-        </div>
+      </div>
+      <br/>
+      <div align="center">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono" />
+        <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow.js" />
+        <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
       </div>
     </td>
   </tr>
@@ -320,7 +328,11 @@
 
 <br/>
 
+<div align="center">
+
 ### 📌 Additional Projects
+
+</div>
 
 <table width="100%">
   <thead>

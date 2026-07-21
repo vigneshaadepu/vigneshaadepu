@@ -169,10 +169,6 @@
 
 ## 🛠️ Technical Skills
 
-</div>
-
-<div align="center">
-
 <table width="100%">
   <tr>
     <td width="25%" align="center" valign="middle"><b>Languages</b></td>
@@ -239,24 +235,20 @@
 
 ## 🚀 Featured Projects
 
-</div>
-
-<div align="center">
+<br/>
 
 <!-- PROJECT 1: ECOTWIN -->
 <table width="100%">
   <tr>
-    <td style="padding: 20px;" valign="top">
-      <div align="left">
-        <h3>🌍 <a href="https://github.com/vigneshaadepu/Ecotwin">EcoTwin</a> &nbsp;<sub>· AI Digital Sustainability Platform</sub></h3>
-        <p>Multi-scenario environmental simulation with reinforcement learning and long-term climate forecasting.</p>
-        <ul>
-          <li>🧠 <b>DQN Policy Optimization:</b> AI-driven sustainability intervention modeling</li>
-          <li>📈 <b>LSTM Forecasting:</b> 10-year climate & environmental projections</li>
-          <li>🛰️ <b>Real Datasets:</b> Integrated NASA, EU ETS, and Open-Meteo APIs</li>
-          <li>🔍 <b>Explainable AI:</b> Integrated SHAP scoring for transparent decision-making</li>
-        </ul>
-      </div>
+    <td width="100%" style="padding: 18px;">
+      <h3>🌍 <a href="https://github.com/vigneshaadepu/Ecotwin">EcoTwin</a> &nbsp;<sub>· AI Digital Sustainability Platform</sub></h3>
+      <p>Multi-scenario environmental simulation with reinforcement learning and long-term climate forecasting.</p>
+      <ul>
+        <li>🧠 <b>DQN Policy Optimization:</b> AI-driven sustainability intervention modeling</li>
+        <li>📈 <b>LSTM Forecasting:</b> 10-year climate & environmental projections</li>
+        <li>🛰️ <b>Real Datasets:</b> Integrated NASA, EU ETS, and Open-Meteo APIs</li>
+        <li>🔍 <b>Explainable AI:</b> Integrated SHAP scoring for transparent decision-making</li>
+      </ul>
       <br/>
       <div align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
@@ -275,17 +267,15 @@
 <!-- PROJECT 2: KRISHI AI -->
 <table width="100%">
   <tr>
-    <td style="padding: 20px;" valign="top">
-      <div align="left">
-        <h3>🌾 <a href="https://github.com/vigneshaadepu/Krishi-Ai">Krishi AI</a> &nbsp;<sub>· Smart Farming Ecosystem</sub></h3>
-        <p>An end-to-end precision agriculture platform empowering farmers with AI-driven insights.</p>
-        <ul>
-          <li>🦠 <b>MobileNetV3 Disease Detection:</b> 95%+ accuracy across 54,000+ plant images</li>
-          <li>🐛 <b>101+ Pest Identification:</b> Real-time identification & organic treatment guidance</li>
-          <li>🌱 <b>Soil Intelligence:</b> Analytics for crop yield optimization</li>
-          <li>🌐 <b>Multilingual Chatbot:</b> AI assistant for farmer accessibility</li>
-        </ul>
-      </div>
+    <td width="100%" style="padding: 18px;">
+      <h3>🌾 <a href="https://github.com/vigneshaadepu/Krishi-Ai">Krishi AI</a> &nbsp;<sub>· Smart Farming Ecosystem</sub></h3>
+      <p>An end-to-end precision agriculture platform empowering farmers with AI-driven insights.</p>
+      <ul>
+        <li>🦠 <b>MobileNetV3 Disease Detection:</b> 95%+ accuracy across 54,000+ plant images</li>
+        <li>🐛 <b>101+ Pest Identification:</b> Real-time identification & organic treatment guidance</li>
+        <li>🌱 <b>Soil Intelligence:</b> Analytics for crop yield optimization</li>
+        <li>🌐 <b>Multilingual Chatbot:</b> AI assistant for farmer accessibility</li>
+      </ul>
       <br/>
       <div align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -303,17 +293,15 @@
 <!-- PROJECT 3: NUTRISCAN AI -->
 <table width="100%">
   <tr>
-    <td style="padding: 20px;" valign="top">
-      <div align="left">
-        <h3>🧬 <a href="https://zenodo.org/records/19473946">NutriScan AI</a> &nbsp;<sub>· Clinical Malnutrition Surveillance Suite</sub></h3>
-        <p>Privacy-first, on-device clinical tool for child malnutrition detection and growth monitoring.</p>
-        <ul>
-          <li>📊 <b>WHO Z-Score Calculator:</b> Standardized clinical assessment engine</li>
-          <li>🔬 <b>Biometric Morphological Analysis:</b> Early malnutrition detection (SAM/MAM)</li>
-          <li>🔒 <b>On-Device Processing:</b> Privacy-first edge inference — no data leaves device</li>
-          <li>📄 <b>Research Paper:</b> Published at ICACSIS-2026 international conference</li>
-        </ul>
-      </div>
+    <td width="100%" style="padding: 18px;">
+      <h3>🧬 <a href="https://zenodo.org/records/19473946">NutriScan AI</a> &nbsp;<sub>· Clinical Malnutrition Surveillance Suite</sub></h3>
+      <p>Privacy-first, on-device clinical tool for child malnutrition detection and growth monitoring.</p>
+      <ul>
+        <li>📊 <b>WHO Z-Score Calculator:</b> Standardized clinical assessment engine</li>
+        <li>🔬 <b>Biometric Morphological Analysis:</b> Early malnutrition detection (SAM/MAM)</li>
+        <li>🔒 <b>On-Device Processing:</b> Privacy-first edge inference — no data leaves device</li>
+        <li>📄 <b>Research Paper:</b> Published at ICACSIS-2026 international conference</li>
+      </ul>
       <br/>
       <div align="center">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -328,11 +316,7 @@
 
 <br/>
 
-<div align="center">
-
 ### 📌 Additional Projects
-
-</div>
 
 <table width="100%">
   <thead>

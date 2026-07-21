@@ -31,78 +31,53 @@
 <!-- SECTION B: ABOUT ME -->
 ## 🧑‍💻 About Me
 
-<div align="center">
+> 🎓 **CS Undergrad @ ALIET (2027)** &nbsp;|&nbsp; 🚀 **Seeking Software / ML Engineering Internship** &nbsp;|&nbsp; 🧠 **AI & Cloud Technologist**
 
-<!-- ANIMATED DOMAIN PILLARS -->
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Sustainability" width="60" /><br/><br/>
-      <b>🌍 Sustainability Tech</b><br/>
-      <sub>Climate Modeling & Digital Twins</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Digital--Twins-00D9FF?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/Climate--AI-007ACC?style=flat-square&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Food/Sheaf%20of%20Rice.png" alt="Agriculture" width="60" /><br/><br/>
-      <b>🌾 Precision Agriculture</b><br/>
-      <sub>Crop Intelligence & Disease Detection</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Computer--Vision-FF5722?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/Crop--Health-4CAF50?style=flat-square&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Activities/Microscope.png" alt="Healthcare" width="60" /><br/><br/>
-      <b>🏥 Clinical AI</b><br/>
-      <sub>On-Device Biometrics & Child Health</sub><br/><br/>
-      <img src="https://img.shields.io/badge/On--Device-9C27B0?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/WHO--ZScores-E91E63?style=flat-square&logoColor=white" />
-    </td>
-  </tr>
-</table>
+---
 
-</div>
+### 🌟 Who I Am & My Mission
+I am a **Computer Science Engineer & AI Technologist** at Andhra Loyola Institute of Engineering and Technology. I bridge the gap between cutting-edge deep learning research and production-grade deployable systems. My engineering philosophy centers on creating technology that solves real-world challenges in **sustainability**, **agriculture**, and **healthcare**.
 
 <br/>
 
-### ⚡ Developer Profile `vignesh.config.json`
-
-```json
-{
-  "engineer": "Vignesh Aadepu",
-  "role": "Full-Stack AI Engineer & Sustainability Technologist",
-  "mission": "Bridging deep learning research with deployable, real-world systems",
-  "impact_domains": ["Environmental Intelligence", "Precision Agriculture", "Clinical AI"],
-  "tech_fusion": ["Deep Learning", "IoT", "Edge AI", "Real-Time Analytics"],
-  "north_star": "Technology should solve real problems — sustainability, food security & health equity."
-}
-```
+> [!IMPORTANT]
+> 🎯 **Current Objective:** Seeking **Software Engineering** or **Machine Learning Engineering Internship** opportunities.  
+> 🛠️ **Core Strengths:** Python, PyTorch, FastAPI, AWS Cloud, TensorFlow.js, TypeScript, Scikit-Learn.
 
 <br/>
 
-<div align="center">
+### 🎓 Education
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚀 Active Endeavors</h4>
-      <ul>
-        <li>🔭 <b>Building:</b> AI-powered platforms for sustainability, agriculture & healthcare</li>
-        <li>🌱 <b>Exploring:</b> Reinforcement Learning for environmental policy optimization</li>
-        <li>💡 <b>Combining:</b> PyTorch + FastAPI + WebGL + Edge AI</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎯 Core Mindset</h4>
-      <ul>
-        <li>🔓 <b>Open Source:</b> Dedicated to community growth & shared knowledge</li>
-        <li>📚 <b>Continuous Growth:</b> Mastering Advanced NLP & Edge Inference</li>
-        <li>⚡ <b>Philosophy:</b> Engineering for tangible, positive real-world impact</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| Institution | Degree / Program | Duration | Performance |
+| :--- | :--- | :---: | :---: |
+| **Andhra Loyola Institute of Eng. & Tech. (ALIET)** | B.Tech in Computer Science Engineering | 2023 – 2027 | **8.5 CGPA** *(Currently Pursuing)* |
+| **Vijaya Joythi Junior College** | Class XII (State Board) | 2021 – 2023 | **97.6 %** |
+| **Municipal High School** | Class X (State Board) | 2021 | **9.74 GPA** |
 
-</div>
+<br/>
+
+### 🏆 Key Achievements & Honors
+
+- 📄 **Published Research Paper:** Author of clinical malnutrition detection research published at the **ICACSIS-2026** international conference.
+- 🥇 **1st Place — A-Hacks 24-Hour Hackathon (ALIET 2024):** Led team development of *Krishi AI* competing against **30+ teams**.
+- 🏆 **1st Prize — CSE Department Innovathon (ALIET):** Built *EcoTwin* platform outperforming **~75 teams / 400+ students**.
+- 📜 **Industry Certifications:** **AWS Certified** & **NPTEL Certified**.
+
+<br/>
+
+### 💼 Experience & Leadership
+
+- ☁️ **AWS Cloud Computing & DevOps Intern — APSSDC (2025)**  
+  *Deployed production web applications on AWS EC2 across 3 instances behind an Application Load Balancer (95% uptime). Configured Route 53 DNS routing for custom domain under 2 minutes.*
+- 👥 **Team Lead & System Architect — A-Hacks Hackathon (2024)**  
+  *Led end-to-end development from model architecture & training to real-time deployment, winning 1st place out of 30+ competing teams.*
+
+<br/>
+
+### 💡 Personal Values & Industry Philosophy
+- 🌍 **Impact-Driven Engineering:** Technology is most powerful when solving real human problems — food security, climate resilience, and child health equity.
+- 🔓 **Open Source & Research:** Committed to open-source contributions, research publishing, and knowledge sharing.
+- ⚡ **Performance & Dependability:** Relentless focus on low latency (sub-100ms), high reliability (95%+ uptime), and scalable system design.
 
 ---
 

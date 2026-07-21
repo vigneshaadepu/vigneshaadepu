@@ -233,52 +233,127 @@
 <!-- SECTION D: FEATURED PROJECTS -->
 ## 🚀 Featured Projects
 
-### 🌍 [EcoTwin](https://github.com/vigneshaadepu/Ecotwin) — AI Digital Sustainability Platform
-> Multi-scenario environmental simulation with reinforcement learning and long-term climate forecasting.
+<div align="center">
 
-- 🧠 **DQN-based** policy optimization for sustainability interventions
-- 📈 **LSTM** 10-year environmental projections
-- 🛰️ Integrated **NASA / EU ETS / Open-Meteo** real-world datasets
-- 🔍 **SHAP** explainability for transparent AI decision-making
-- ⚡ Real-time simulation via **Server-Sent Events**
+<!-- PROJECT 1: ECOTWIN -->
+<table width="100%">
+  <tr>
+    <td style="padding: 18px;">
+      <div align="left">
+        <h3>🌍 <a href="https://github.com/vigneshaadepu/Ecotwin">EcoTwin</a> &nbsp;<sub>· AI Digital Sustainability Platform</sub></h3>
+        <p>Multi-scenario environmental simulation with reinforcement learning and long-term climate forecasting.</p>
+        <ul>
+          <li>🧠 <b>DQN Policy Optimization:</b> AI-driven sustainability intervention modeling</li>
+          <li>📈 <b>LSTM Forecasting:</b> 10-year climate & environmental projections</li>
+          <li>🛰️ <b>Real Datasets:</b> Integrated NASA, EU ETS, and Open-Meteo APIs</li>
+          <li>🔍 <b>Explainable AI:</b> Integrated SHAP scoring for transparent decision-making</li>
+        </ul>
+        <br/>
+        <div>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+          <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
+          <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+          <img src="https://img.shields.io/badge/SHAP-9C27B0?style=flat-square" alt="SHAP" />
+          <img src="https://img.shields.io/badge/SSE-Real--time-00D9FF?style=flat-square" alt="SSE" />
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
 
-**Stack:** `JavaScript` `Node.js` `WebGL` `Server-Sent Events` `SHAP`
+<br/>
 
----
+<!-- PROJECT 2: KRISHI AI -->
+<table width="100%">
+  <tr>
+    <td style="padding: 18px;">
+      <div align="left">
+        <h3>🌾 <a href="https://github.com/vigneshaadepu/Krishi-Ai">Krishi AI</a> &nbsp;<sub>· Smart Farming Ecosystem</sub></h3>
+        <p>An end-to-end precision agriculture platform empowering farmers with AI-driven insights.</p>
+        <ul>
+          <li>🦠 <b>MobileNetV3 Disease Detection:</b> 95%+ accuracy across 54,000+ plant images</li>
+          <li>🐛 <b>101+ Pest Identification:</b> Real-time identification & organic treatment guidance</li>
+          <li>🌱 <b>Soil Intelligence:</b> Analytics for crop yield optimization</li>
+          <li>🌐 <b>Multilingual Chatbot:</b> AI assistant for farmer accessibility</li>
+        </ul>
+        <br/>
+        <div>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+          <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white" alt="OpenCV" />
+          <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
 
-### 🌾 [Krishi AI](https://github.com/vigneshaadepu/Krishi-Ai) — Smart Farming Ecosystem
-> An end-to-end precision agriculture platform empowering farmers with AI-driven insights.
+<br/>
 
-- 🦠 **MobileNetV3** plant disease detection with 95%+ accuracy
-- 🐛 **101+ pest** identification and treatment recommendations
-- 🌱 **Soil intelligence** analytics for optimized yield
-- 🌐 **Multilingual AI chatbot** for farmer accessibility
+<!-- PROJECT 3: NUTRISCAN AI -->
+<table width="100%">
+  <tr>
+    <td style="padding: 18px;">
+      <div align="left">
+        <h3>🧬 <a href="https://zenodo.org/records/19473946">NutriScan AI</a> &nbsp;<sub>· Clinical Malnutrition Surveillance Suite</sub></h3>
+        <p>Privacy-first, on-device clinical tool for child malnutrition detection and growth monitoring.</p>
+        <ul>
+          <li>📊 <b>WHO Z-Score Calculator:</b> Standardized clinical assessment engine</li>
+          <li>🔬 <b>Biometric Morphological Analysis:</b> Early malnutrition detection (SAM/MAM)</li>
+          <li>🔒 <b>On-Device Processing:</b> Privacy-first edge inference — no data leaves device</li>
+          <li>📄 <b>Research Paper:</b> Published at ICACSIS-2026 international conference</li>
+        </ul>
+        <br/>
+        <div>
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono" />
+          <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow.js" />
+          <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+          <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
 
-**Stack:** `Python (FastAPI)` `PyTorch` `OpenCV` `Scikit-Learn` `JavaScript`
-
----
-
-### 🧬 [NutriScan AI](https://github.com/vigneshaadepu/Malnutrition_detection) — Clinical Malnutrition Surveillance Suite
-> Privacy-first, on-device clinical tool for malnutrition detection and child health monitoring.
-
-- 📊 **WHO Z-Score** calculator for standardized clinical assessment
-- 🔬 **Biometric morphological analysis** for early malnutrition detection
-- 🔒 **On-device, privacy-first** processing — no data leaves the device
-- 🌍 Built for **low-resource healthcare** environments
-
-**Stack:** `TypeScript (Hono)` `TensorFlow.js` `Tailwind CSS` `Cloudflare Workers` `D1 SQLite`
-
----
+<br/>
 
 ### 📌 Additional Projects
 
-| Project | Description |
-|---------|-------------|
-| [MSME Insurance Platform](https://github.com/vigneshaadepu) | Digital insurance solution for small and medium enterprises |
-| [My Portfolio](https://vigneshaadepu7.netlify.app/) | Personal portfolio showcasing projects and experience |
-| [Facepulse](https://github.com/vigneshaadepu) | Real-time facial recognition and pulse detection system |
-| [Steganography](https://github.com/vigneshaadepu) | Secure data hiding within digital media |
-| [Nexora Quiz](https://github.com/vigneshaadepu) | Intelligent adaptive quiz platform |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="30%">Project</th>
+      <th align="left" width="70%">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/vigneshaadepu"><b>MSME Insurance Platform</b></a></td>
+      <td>Digital insurance solution for small and medium enterprises</td>
+    </tr>
+    <tr>
+      <td><a href="https://vigneshaadepu7.netlify.app/"><b>Personal Portfolio</b></a></td>
+      <td>Personal portfolio showcasing projects, experience, and research</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/vigneshaadepu"><b>Facepulse</b></a></td>
+      <td>Real-time facial recognition and pulse detection system</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/vigneshaadepu"><b>Steganography</b></a></td>
+      <td>Secure data hiding within digital media using spatial domain techniques</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/vigneshaadepu"><b>Nexora Quiz</b></a></td>
+      <td>Intelligent adaptive quiz platform with real-time analytics</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 ---
 
@@ -355,7 +430,7 @@ I'm always open to collaborating on impactful projects, research opportunities, 
 <i>"The best technology is the one that solves real problems for real people. Whether it's helping farmers fight crop diseases, detecting malnutrition in children, or safeguarding our planet — technology has the power to transform lives."</i>
 
 <br/>
-![alt text](image.png)
+
 Made with ❤️ for a sustainable, equitable future.
 
 <br/>

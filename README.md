@@ -372,7 +372,14 @@
 
 <!-- CARD 3: MOST USED LANGUAGES -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshaadepu&theme=tokyonight&hide_border=true" alt="" width="85%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshaadepu&theme=tokyonight&hide_border=true&langs_count=8" alt="" width="85%" />
+</div>
+
+<br/>
+
+<!-- CARD 4: CONTRIBUTION ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshaadepu&theme=tokyo-night" alt="" width="85%" />
 </div>
 
 </div>

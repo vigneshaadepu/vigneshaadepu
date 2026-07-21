@@ -49,13 +49,14 @@
   <tr>
     <td align="center">
       <p align="center">
-        I am a <b>Computer Science Engineer & AI Technologist</b> at <b>Andhra Loyola Institute of Engineering and Technology</b>.<br/>
-        I bridge the gap between <b>cutting-edge deep learning research</b> and <b>production-grade deployable systems</b>.
+        I am a <b>Computer Science Undergrad at ALIET</b> passionate about building production-grade AI, full-stack, and cloud platforms.<br/>
+        Experienced with <b>Python, FastAPI, PyTorch, and AWS</b>, I focus on bridging deep learning research with real-world deployable systems.
       </p>
       <br/>
-      <img src="https://img.shields.io/badge/Focus-Sustainability%20AI-00D9FF?style=flat-square&logo=leaf&logoColor=white" />
-      <img src="https://img.shields.io/badge/Domain-Precision%20Agriculture-4CAF50?style=flat-square&logo=sprout&logoColor=white" />
-      <img src="https://img.shields.io/badge/Impact-Clinical%20Healthcare-E91E63?style=flat-square&logo=health&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI%20%26%20ML-PyTorch%20%7C%20Scikit--Learn-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Python-005571?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-AWS%20EC2%20%7C%20Route53-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV%20%7C%20TensorFlow.js-27338e?style=flat-square&logo=opencv&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -66,17 +67,69 @@
 
 ### 🏆 Key Achievements & Honors
 
-- 📄 **Published Research Paper** &nbsp; <img src="https://img.shields.io/badge/ICACSIS--2026-International%20Conference-FF5722?style=flat-square" />  
-  *Author of clinical malnutrition detection research published at the ICACSIS-2026 conference.*
-
-- 🥇 **1st Place Winner** &nbsp; <img src="https://img.shields.io/badge/A--Hacks%20Hackathon-1st%20Place%20(30%2B%20Teams)-4CAF50?style=flat-square" />  
-  *Led team development of Krishi AI (Smart Farming Ecosystem) competing against 30+ teams.*
-
-- 🏆 **1st Prize Winner** &nbsp; <img src="https://img.shields.io/badge/ALIET%20Innovathon-75%2B%20Teams%20%7C%20400%2B%20Students-9C27B0?style=flat-square" />  
-  *Developed EcoTwin (Smart City Digital Twin) outperforming ~75 competing teams.*
-
-- 📜 **Verified Certifications** &nbsp; <img src="https://img.shields.io/badge/AWS-Cloud%20Certified-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/NPTEL-Deep%20Learning%20Certified-007ACC?style=flat-square" />  
-  *Certified in AWS Cloud Infrastructure and NPTEL Deep Learning.*
+<table>
+  <tr>
+    <th width="30%">Event / Platform</th>
+    <th width="45%">Achievement & Contribution</th>
+    <th width="25%">Project / Artifact</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/ICACSIS--2026-International%20Conference-FF5722?style=for-the-badge" />
+    </td>
+    <td>
+      📄 <b>Published Research Paper</b><br/>
+      <sub>Published clinical malnutrition detection research utilizing pose estimation and WHO Z-Scores.</sub>
+    </td>
+    <td>
+      <b>NutriScan AI</b><br/>
+      <a href="https://github.com/vigneshaadepu/Malnutrition_detection">🔗 Research Paper</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/A--Hacks%20Hackathon-ALIET%20(2024)-4CAF50?style=for-the-badge" />
+    </td>
+    <td>
+      🥇 <b>1st Place Winner (Team Lead)</b><br/>
+      <sub>Competed against <b>30+ teams</b> in a 24hr hackathon; led end-to-end model training to deployment.</sub>
+    </td>
+    <td>
+      <b>Krishi AI</b><br/>
+      <a href="https://github.com/vigneshaadepu/Krishi-Ai">🌱 Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/CSE%20Innovathon-ALIET-9C27B0?style=for-the-badge" />
+    </td>
+    <td>
+      🏆 <b>1st Prize Winner</b><br/>
+      <sub>Developed EcoTwin platform outperforming <b>~75 competing teams / 400+ students</b>.</sub>
+    </td>
+    <td>
+      <b>EcoTwin</b><br/>
+      <a href="https://github.com/vigneshaadepu/Ecotwin">🌍 Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/AWS%20%26%20NPTEL-Certifications-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    </td>
+    <td>
+      📜 <b>Verified Certifications</b><br/>
+      <sub>AWS Cloud Computing & DevOps (APSSDC) and NPTEL Deep Learning Certifications.</sub>
+    </td>
+    <td>
+      <b>AWS & NPTEL</b><br/>
+      <sub>Cloud & ML</sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 

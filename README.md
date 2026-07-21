@@ -355,7 +355,7 @@ I'm always open to collaborating on impactful projects, research opportunities, 
 <i>"The best technology is the one that solves real problems for real people. Whether it's helping farmers fight crop diseases, detecting malnutrition in children, or safeguarding our planet — technology has the power to transform lives."</i>
 
 <br/>
-
+![alt text](image.png)
 Made with ❤️ for a sustainable, equitable future.
 
 <br/>

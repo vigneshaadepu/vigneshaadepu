@@ -31,53 +31,77 @@
 <!-- SECTION B: ABOUT ME -->
 ## 🧑‍💻 About Me
 
-> 🎓 **CS Undergrad @ ALIET (2027)** &nbsp;|&nbsp; 🚀 **Seeking Software / ML Engineering Internship** &nbsp;|&nbsp; 🧠 **AI & Cloud Technologist**
+<div align="center">
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FF9800&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%8E%93+CS+Undergrad+%40+ALIET+(2027);%F0%9F%9A%80+Seeking+Software+%26+ML+Engineering+Internships;%F0%9F%A7%A0+AI+%26+Cloud+Technologist" alt="About Me Typing SVG" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
 
 ### 🌟 Who I Am & My Mission
-I am a **Computer Science Engineer & AI Technologist** at Andhra Loyola Institute of Engineering and Technology. I bridge the gap between cutting-edge deep learning research and production-grade deployable systems. My engineering philosophy centers on creating technology that solves real-world challenges in **sustainability**, **agriculture**, and **healthcare**.
 
-<br/>
+<table>
+  <tr>
+    <td align="center">
+      <p align="center">
+        I am a <b>Computer Science Engineer & AI Technologist</b> at <b>Andhra Loyola Institute of Engineering and Technology</b>.<br/>
+        I bridge the gap between <b>cutting-edge deep learning research</b> and <b>production-grade deployable systems</b>.
+      </p>
+      <br/>
+      <img src="https://img.shields.io/badge/Focus-Sustainability%20AI-00D9FF?style=flat-square&logo=leaf&logoColor=white" />
+      <img src="https://img.shields.io/badge/Domain-Precision%20Agriculture-4CAF50?style=flat-square&logo=sprout&logoColor=white" />
+      <img src="https://img.shields.io/badge/Impact-Clinical%20Healthcare-E91E63?style=flat-square&logo=health&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-> [!IMPORTANT]
-> 🎯 **Current Objective:** Seeking **Software Engineering** or **Machine Learning Engineering Internship** opportunities.  
-> 🛠️ **Core Strengths:** Python, PyTorch, FastAPI, AWS Cloud, TensorFlow.js, TypeScript, Scikit-Learn.
-
-<br/>
-
-### 🎓 Education
-
-| Institution | Degree / Program | Duration | Performance |
-| :--- | :--- | :---: | :---: |
-| **Andhra Loyola Institute of Eng. & Tech. (ALIET)** | B.Tech in Computer Science Engineering | 2023 – 2027 | **8.5 CGPA** *(Currently Pursuing)* |
-| **Vijaya Joythi Junior College** | Class XII (State Board) | 2021 – 2023 | **97.6 %** |
-| **Municipal High School** | Class X (State Board) | 2021 | **9.74 GPA** |
+</div>
 
 <br/>
 
 ### 🏆 Key Achievements & Honors
 
-- 📄 **Published Research Paper:** Author of clinical malnutrition detection research published at the **ICACSIS-2026** international conference.
-- 🥇 **1st Place — A-Hacks 24-Hour Hackathon (ALIET 2024):** Led team development of *Krishi AI* competing against **30+ teams**.
-- 🏆 **1st Prize — CSE Department Innovathon (ALIET):** Built *EcoTwin* platform outperforming **~75 teams / 400+ students**.
-- 📜 **Industry Certifications:** **AWS Certified** & **NPTEL Certified**.
+- 📄 **Published Research Paper** &nbsp; <img src="https://img.shields.io/badge/ICACSIS--2026-International%20Conference-FF5722?style=flat-square" />  
+  *Author of clinical malnutrition detection research published at the ICACSIS-2026 conference.*
+
+- 🥇 **1st Place Winner** &nbsp; <img src="https://img.shields.io/badge/A--Hacks%20Hackathon-1st%20Place%20(30%2B%20Teams)-4CAF50?style=flat-square" />  
+  *Led team development of Krishi AI (Smart Farming Ecosystem) competing against 30+ teams.*
+
+- 🏆 **1st Prize Winner** &nbsp; <img src="https://img.shields.io/badge/ALIET%20Innovathon-75%2B%20Teams%20%7C%20400%2B%20Students-9C27B0?style=flat-square" />  
+  *Developed EcoTwin (Smart City Digital Twin) outperforming ~75 competing teams.*
+
+- 📜 **Verified Certifications** &nbsp; <img src="https://img.shields.io/badge/AWS-Cloud%20Certified-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/NPTEL-Deep%20Learning%20Certified-007ACC?style=flat-square" />  
+  *Certified in AWS Cloud Infrastructure and NPTEL Deep Learning.*
 
 <br/>
 
-### 💼 Experience & Leadership
-
-- ☁️ **AWS Cloud Computing & DevOps Intern — APSSDC (2025)**  
-  *Deployed production web applications on AWS EC2 across 3 instances behind an Application Load Balancer (95% uptime). Configured Route 53 DNS routing for custom domain under 2 minutes.*
-- 👥 **Team Lead & System Architect — A-Hacks Hackathon (2024)**  
-  *Led end-to-end development from model architecture & training to real-time deployment, winning 1st place out of 30+ competing teams.*
-
-<br/>
+<div align="center">
 
 ### 💡 Personal Values & Industry Philosophy
-- 🌍 **Impact-Driven Engineering:** Technology is most powerful when solving real human problems — food security, climate resilience, and child health equity.
-- 🔓 **Open Source & Research:** Committed to open-source contributions, research publishing, and knowledge sharing.
-- ⚡ **Performance & Dependability:** Relentless focus on low latency (sub-100ms), high reliability (95%+ uptime), and scalable system design.
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/🌍%20Impact--Driven-Technology-00D9FF?style=for-the-badge" /><br/><br/>
+      <sub>Solving real human problems in food security, climate resilience & health equity.</sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/🔓%20Open--Source-Research-4CAF50?style=for-the-badge" /><br/><br/>
+      <sub>Committed to open-source code, research publications & knowledge sharing.</sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/⚡%20Engineering-Rigor-FF5722?style=for-the-badge" /><br/><br/>
+      <sub>Relentless focus on sub-100ms latency, high reliability & clean architecture.</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 

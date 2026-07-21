@@ -51,10 +51,10 @@
       </p>
       <br/>
       <div align="center">
-        <a><img src="https://img.shields.io/badge/AI%20%26%20ML-PyTorch%20%7C%20Scikit--Learn-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="" /></a>
-        <a><img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Python-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="" /></a>
-        <a><img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-AWS%20EC2%20%7C%20Route53-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="" /></a>
-        <a><img src="https://img.shields.io/badge/Computer%20Vision-OpenCV%20%7C%20TensorFlow.js-27338e?style=for-the-badge&logo=opencv&logoColor=white" alt="" /></a>
+        <a href="#0"><img src="https://img.shields.io/badge/AI%20%26%20ML-PyTorch%20%7C%20Scikit--Learn-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="" /></a>
+        <a href="#0"><img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Python-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="" /></a>
+        <a href="#0"><img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-AWS%20EC2%20%7C%20Route53-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="" /></a>
+        <a href="#0"><img src="https://img.shields.io/badge/Computer%20Vision-OpenCV%20%7C%20TensorFlow.js-27338e?style=for-the-badge&logo=opencv&logoColor=white" alt="" /></a>
       </div>
     </td>
   </tr>
@@ -79,50 +79,50 @@
   <tbody>
     <tr>
       <td align="center" valign="middle">
-        <a><img src="https://img.shields.io/badge/ICACSIS--2026-International%20Conference-FF5722?style=for-the-badge" alt="" /></a>
+        <a href="#0"><img src="https://img.shields.io/badge/ICACSIS--2026-International%20Conference-FF5722?style=for-the-badge" alt="" /></a>
       </td>
       <td align="left" valign="middle">
         <b>📄 Published Research Paper</b><br/>
         <sub>Published clinical malnutrition detection research utilizing pose estimation and WHO Z-Scores.</sub>
       </td>
       <td align="center" valign="middle">
-        <a><img src="https://img.shields.io/badge/NutriScan%20AI-Zenodo%20Paper-005571?style=for-the-badge&logo=zenodo&logoColor=white" alt="" /></a>
+        <a href="#0"><img src="https://img.shields.io/badge/NutriScan%20AI-Zenodo%20Paper-005571?style=for-the-badge&logo=zenodo&logoColor=white" alt="" /></a>
       </td>
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <a><img src="https://img.shields.io/badge/A--Hacks%20Hackathon-ALIET%20(2024)-4CAF50?style=for-the-badge" alt="" /></a>
+        <a href="#0"><img src="https://img.shields.io/badge/A--Hacks%20Hackathon-ALIET%20(2024)-4CAF50?style=for-the-badge" alt="" /></a>
       </td>
       <td align="left" valign="middle">
         <b>🥇 1st Place Winner (Team Lead)</b><br/>
         <sub>Competed against <b>30+ teams</b> in a 24hr hackathon; led end-to-end model training to deployment.</sub>
       </td>
       <td align="center" valign="middle">
-        <a><img src="https://img.shields.io/badge/Krishi%20AI-005571?style=for-the-badge&logo=github&logoColor=white" alt="" /></a>
+        <a href="#0"><img src="https://img.shields.io/badge/Krishi%20AI-005571?style=for-the-badge&logo=github&logoColor=white" alt="" /></a>
       </td>
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <a><img src="https://img.shields.io/badge/CSE%20Innovathon-ALIET-9C27B0?style=for-the-badge" alt="" /></a>
+        <a href="#0"><img src="https://img.shields.io/badge/CSE%20Innovathon-ALIET-9C27B0?style=for-the-badge" alt="" /></a>
       </td>
       <td align="left" valign="middle">
         <b>🏆 1st Prize Winner</b><br/>
         <sub>Developed EcoTwin platform outperforming <b>~75 competing teams / 400+ students</b>.</sub>
       </td>
       <td align="center" valign="middle">
-        <a><img src="https://img.shields.io/badge/EcoTwin-005571?style=for-the-badge&logo=github&logoColor=white" alt="" /></a>
+        <a href="#0"><img src="https://img.shields.io/badge/EcoTwin-005571?style=for-the-badge&logo=github&logoColor=white" alt="" /></a>
       </td>
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <a><img src="https://img.shields.io/badge/AWS%20%26%20NPTEL-Certifications-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="" /></a>
+        <a href="#0"><img src="https://img.shields.io/badge/AWS%20%26%20NPTEL-Certifications-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="" /></a>
       </td>
       <td align="left" valign="middle">
         <b>📜 Verified Certifications</b><br/>
         <sub>AWS Cloud Computing & DevOps (APSSDC) and NPTEL Deep Learning Certifications.</sub>
       </td>
       <td align="center" valign="middle">
-        <a><img src="https://img.shields.io/badge/AWS%20%26%20NPTEL-Verified-07405E?style=for-the-badge" alt="" /></a>
+        <a href="#0"><img src="https://img.shields.io/badge/AWS%20%26%20NPTEL-Verified-07405E?style=for-the-badge" alt="" /></a>
       </td>
     </tr>
   </tbody>
@@ -140,17 +140,17 @@
   <tr>
     <td width="33.33%" align="center" valign="top">
       <br/>
-      <a><img src="https://img.shields.io/badge/🌍%20Impact--Driven-Technology-00D9FF?style=for-the-badge" alt="" /></a><br/><br/>
+      <a href="#0"><img src="https://img.shields.io/badge/🌍%20Impact--Driven-Technology-00D9FF?style=for-the-badge" alt="" /></a><br/><br/>
       <p align="center"><sub>Solving real human problems in food security, climate resilience & health equity.</sub></p>
     </td>
     <td width="33.33%" align="center" valign="top">
       <br/>
-      <a><img src="https://img.shields.io/badge/🔓%20Open--Source-Research-4CAF50?style=for-the-badge" alt="" /></a><br/><br/>
+      <a href="#0"><img src="https://img.shields.io/badge/🔓%20Open--Source-Research-4CAF50?style=for-the-badge" alt="" /></a><br/><br/>
       <p align="center"><sub>Committed to open-source code, research publications & knowledge sharing.</sub></p>
     </td>
     <td width="33.33%" align="center" valign="top">
       <br/>
-      <a><img src="https://img.shields.io/badge/⚡%20Engineering-Rigor-FF5722?style=for-the-badge" alt="" /></a><br/><br/>
+      <a href="#0"><img src="https://img.shields.io/badge/⚡%20Engineering-Rigor-FF5722?style=for-the-badge" alt="" /></a><br/><br/>
       <p align="center"><sub>Relentless focus on sub-100ms latency, high reliability & clean architecture.</sub></p>
     </td>
   </tr>
@@ -169,55 +169,55 @@
   <tr>
     <td width="25%" align="center" valign="middle"><b>Languages</b></td>
     <td width="75%" align="center" valign="middle">
-      <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="" /></a>
-      <a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="" /></a>
-      <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="" /></a>
-      <a><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="" /></a>
-      <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="" /></a>
-      <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="" /></a>
-      <a><img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="" /></a>
+      <a href="#0"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="" /></a>
+      <a href="#0"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="" /></a>
+      <a href="#0"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="" /></a>
+      <a href="#0"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="" /></a>
+      <a href="#0"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="" /></a>
+      <a href="#0"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="" /></a>
+      <a href="#0"><img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="" /></a>
     </td>
   </tr>
   <tr>
     <td align="center" valign="middle"><b>Frameworks & AI</b></td>
     <td align="center" valign="middle">
-      <a><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="" /></a>
-      <a><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="" /></a>
-      <a><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="" /></a>
-      <a><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="" /></a>
-      <a><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="" /></a>
-      <a><img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="" /></a>
-      <a><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="" /></a>
-      <a><img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" alt="" /></a>
+      <a href="#0"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="" /></a>
+      <a href="#0"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="" /></a>
+      <a href="#0"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="" /></a>
+      <a href="#0"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="" /></a>
+      <a href="#0"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="" /></a>
+      <a href="#0"><img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="" /></a>
+      <a href="#0"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="" /></a>
+      <a href="#0"><img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" alt="" /></a>
     </td>
   </tr>
   <tr>
     <td align="center" valign="middle"><b>Cloud & Infrastructure</b></td>
     <td align="center" valign="middle">
-      <a><img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" alt="" /></a>
-      <a><img src="https://img.shields.io/badge/AWS%20Load%20Balancer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="" /></a>
-      <a><img src="https://img.shields.io/badge/Route%2053-FF9900?style=for-the-badge&logo=amazon-route53&logoColor=white" alt="" /></a>
-      <a><img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="" /></a>
+      <a href="#0"><img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" alt="" /></a>
+      <a href="#0"><img src="https://img.shields.io/badge/AWS%20Load%20Balancer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="" /></a>
+      <a href="#0"><img src="https://img.shields.io/badge/Route%2053-FF9900?style=for-the-badge&logo=amazon-route53&logoColor=white" alt="" /></a>
+      <a href="#0"><img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="" /></a>
     </td>
   </tr>
   <tr>
     <td align="center" valign="middle"><b>Tools & Databases</b></td>
     <td align="center" valign="middle">
-      <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="" /></a>
-      <a><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="" /></a>
-      <a><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="" /></a>
-      <a><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="" /></a>
-      <a><img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="" /></a>
+      <a href="#0"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="" /></a>
+      <a href="#0"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="" /></a>
+      <a href="#0"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="" /></a>
+      <a href="#0"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="" /></a>
+      <a href="#0"><img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="" /></a>
     </td>
   </tr>
   <tr>
     <td align="center" valign="middle"><b>Core Concepts</b></td>
     <td align="center" valign="middle">
-      <a><img src="https://img.shields.io/badge/Deep%20Learning-00D9FF?style=for-the-badge" alt="" /></a>
-      <a><img src="https://img.shields.io/badge/Computer%20Vision-4CAF50?style=for-the-badge" alt="" /></a>
-      <a><img src="https://img.shields.io/badge/Reinforcement%20Learning-FF5722?style=for-the-badge" alt="" /></a>
-      <a><img src="https://img.shields.io/badge/Explainable%20AI%20(SHAP)-9C27B0?style=for-the-badge" alt="" /></a>
-      <a><img src="https://img.shields.io/badge/Edge%20%26%20On--Device%20AI-E91E63?style=for-the-badge" alt="" /></a>
+      <a href="#0"><img src="https://img.shields.io/badge/Deep%20Learning-00D9FF?style=for-the-badge" alt="" /></a>
+      <a href="#0"><img src="https://img.shields.io/badge/Computer%20Vision-4CAF50?style=for-the-badge" alt="" /></a>
+      <a href="#0"><img src="https://img.shields.io/badge/Reinforcement%20Learning-FF5722?style=for-the-badge" alt="" /></a>
+      <a href="#0"><img src="https://img.shields.io/badge/Explainable%20AI%20(SHAP)-9C27B0?style=for-the-badge" alt="" /></a>
+      <a href="#0"><img src="https://img.shields.io/badge/Edge%20%26%20On--Device%20AI-E91E63?style=for-the-badge" alt="" /></a>
     </td>
   </tr>
 </table>
@@ -248,12 +248,12 @@
         </ul>
         <br/>
         <div align="center">
-          <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="" /></a>
-          <a><img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="" /></a>
-          <a><img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="" /></a>
-          <a><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="" /></a>
-          <a><img src="https://img.shields.io/badge/SHAP-9C27B0?style=flat-square" alt="" /></a>
-          <a><img src="https://img.shields.io/badge/SSE-Real--time-00D9FF?style=flat-square" alt="" /></a>
+          <a href="#0"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="" /></a>
+          <a href="#0"><img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="" /></a>
+          <a href="#0"><img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="" /></a>
+          <a href="#0"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="" /></a>
+          <a href="#0"><img src="https://img.shields.io/badge/SHAP-9C27B0?style=flat-square" alt="" /></a>
+          <a href="#0"><img src="https://img.shields.io/badge/SSE-Real--time-00D9FF?style=flat-square" alt="" /></a>
         </div>
       </div>
     </td>
@@ -274,11 +274,11 @@
         </ul>
         <br/>
         <div align="center">
-          <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="" /></a>
-          <a><img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" alt="" /></a>
-          <a><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="" /></a>
-          <a><img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white" alt="" /></a>
-          <a><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="" /></a>
+          <a href="#0"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="" /></a>
+          <a href="#0"><img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" alt="" /></a>
+          <a href="#0"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="" /></a>
+          <a href="#0"><img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white" alt="" /></a>
+          <a href="#0"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="" /></a>
         </div>
       </div>
     </td>
@@ -299,11 +299,11 @@
         </ul>
         <br/>
         <div align="center">
-          <a><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="" /></a>
-          <a><img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="" /></a>
-          <a><img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="" /></a>
-          <a><img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="" /></a>
-          <a><img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="" /></a>
+          <a href="#0"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="" /></a>
+          <a href="#0"><img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="" /></a>
+          <a href="#0"><img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="" /></a>
+          <a href="#0"><img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="" /></a>
+          <a href="#0"><img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="" /></a>
         </div>
       </div>
     </td>
@@ -396,8 +396,8 @@
       </td>
       <td align="left" valign="middle">
         Digital Twins &bull; Environmental AI &bull; Long-Term Climate Modeling<br/>
-        <a><img src="https://img.shields.io/badge/Digital--Twins-00D9FF?style=flat-square" alt="" /></a>
-        <a><img src="https://img.shields.io/badge/Climate--AI-007ACC?style=flat-square" alt="" /></a>
+        <a href="#0"><img src="https://img.shields.io/badge/Digital--Twins-00D9FF?style=flat-square" alt="" /></a>
+        <a href="#0"><img src="https://img.shields.io/badge/Climate--AI-007ACC?style=flat-square" alt="" /></a>
       </td>
     </tr>
     <tr>
@@ -406,8 +406,8 @@
       </td>
       <td align="left" valign="middle">
         Crop Intelligence &bull; Computer Vision &bull; IoT Integration<br/>
-        <a><img src="https://img.shields.io/badge/Crop--Health-4CAF50?style=flat-square" alt="" /></a>
-        <a><img src="https://img.shields.io/badge/IoT--Analytics-FF9900?style=flat-square" alt="" /></a>
+        <a href="#0"><img src="https://img.shields.io/badge/Crop--Health-4CAF50?style=flat-square" alt="" /></a>
+        <a href="#0"><img src="https://img.shields.io/badge/IoT--Analytics-FF9900?style=flat-square" alt="" /></a>
       </td>
     </tr>
     <tr>
@@ -416,8 +416,8 @@
       </td>
       <td align="left" valign="middle">
         Child Malnutrition Detection &bull; Health Equity &bull; Privacy-First Design<br/>
-        <a><img src="https://img.shields.io/badge/WHO--ZScores-E91E63?style=flat-square" alt="" /></a>
-        <a><img src="https://img.shields.io/badge/On--Device%20Biometrics-9C27B0?style=flat-square" alt="" /></a>
+        <a href="#0"><img src="https://img.shields.io/badge/WHO--ZScores-E91E63?style=flat-square" alt="" /></a>
+        <a href="#0"><img src="https://img.shields.io/badge/On--Device%20Biometrics-9C27B0?style=flat-square" alt="" /></a>
       </td>
     </tr>
     <tr>
@@ -426,8 +426,8 @@
       </td>
       <td align="left" valign="middle">
         SHAP Interpretability &bull; Model Transparency &bull; Trustworthy AI<br/>
-        <a><img src="https://img.shields.io/badge/SHAP--Scoring-005571?style=flat-square" alt="" /></a>
-        <a><img src="https://img.shields.io/badge/Trust--AI-FF5722?style=flat-square" alt="" /></a>
+        <a href="#0"><img src="https://img.shields.io/badge/SHAP--Scoring-005571?style=flat-square" alt="" /></a>
+        <a href="#0"><img src="https://img.shields.io/badge/Trust--AI-FF5722?style=flat-square" alt="" /></a>
       </td>
     </tr>
     <tr>
@@ -436,8 +436,8 @@
       </td>
       <td align="left" valign="middle">
         On-Device Inference &bull; TensorFlow.js &bull; Low-Resource Deployment<br/>
-        <a><img src="https://img.shields.io/badge/Edge--Inference-FF6F00?style=flat-square" alt="" /></a>
-        <a><img src="https://img.shields.io/badge/Low--Resource-003B57?style=flat-square" alt="" /></a>
+        <a href="#0"><img src="https://img.shields.io/badge/Edge--Inference-FF6F00?style=flat-square" alt="" /></a>
+        <a href="#0"><img src="https://img.shields.io/badge/Low--Resource-003B57?style=flat-square" alt="" /></a>
       </td>
     </tr>
   </tbody>
@@ -451,27 +451,27 @@
   <tr>
     <td width="20%" align="center" valign="top">
       <br/>
-      <a><img src="https://img.shields.io/badge/🌍%20Impact-Driven-00D9FF?style=for-the-badge" alt="" /></a><br/><br/>
+      <a href="#0"><img src="https://img.shields.io/badge/🌍%20Impact-Driven-00D9FF?style=for-the-badge" alt="" /></a><br/><br/>
       <p align="center">Engineering for tangible human solutions</p>
     </td>
     <td width="20%" align="center" valign="top">
       <br/>
-      <a><img src="https://img.shields.io/badge/♿%20Accessibility-4CAF50?style=for-the-badge" alt="" /></a><br/><br/>
+      <a href="#0"><img src="https://img.shields.io/badge/♿%20Accessibility-4CAF50?style=for-the-badge" alt="" /></a><br/><br/>
       <p align="center">Inclusive tech for all communities</p>
     </td>
     <td width="20%" align="center" valign="top">
       <br/>
-      <a><img src="https://img.shields.io/badge/🔓%20Open%20Source-9C27B0?style=for-the-badge" alt="" /></a><br/><br/>
+      <a href="#0"><img src="https://img.shields.io/badge/🔓%20Open%20Source-9C27B0?style=for-the-badge" alt="" /></a><br/><br/>
       <p align="center">Shared research & open collaboration</p>
     </td>
     <td width="20%" align="center" valign="top">
       <br/>
-      <a><img src="https://img.shields.io/badge/⭐%20Excellence-FF9900?style=for-the-badge" alt="" /></a><br/><br/>
+      <a href="#0"><img src="https://img.shields.io/badge/⭐%20Excellence-FF9900?style=for-the-badge" alt="" /></a><br/><br/>
       <p align="center">Sub-100ms latency & high uptime</p>
     </td>
     <td width="20%" align="center" valign="top">
       <br/>
-      <a><img src="https://img.shields.io/badge/🌱%20Sustainability-E91E63?style=for-the-badge" alt="" /></a><br/><br/>
+      <a href="#0"><img src="https://img.shields.io/badge/🌱%20Sustainability-E91E63?style=for-the-badge" alt="" /></a><br/><br/>
       <p align="center">Technology for a greener planet</p>
     </td>
   </tr>

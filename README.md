@@ -486,31 +486,71 @@
 ---
 
 <!-- SECTION I: FOOTER -->
-## 🤝 Let's Connect
-
 <div align="center">
 
-I'm always open to collaborating on impactful projects, research opportunities, and open-source contributions. Let's build something meaningful together.
+## 🤝 Let's Connect & Collaborate
+
+<p align="center">I'm always open to collaborating on impactful projects, research opportunities, and open-source contributions. Let's build something meaningful together!</p>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vigneshaadepu)
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vigneshaadepu7.netlify.app/)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshaadepu@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vigneshaadepu)
+<table width="100%">
+  <tr>
+    <td width="25%" align="center" valign="top" style="padding: 15px;">
+      <br/>
+      <a href="https://linkedin.com/in/vigneshaadepu">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <br/><br/>
+      <p align="center"><b>Networking & Career</b><br/><sub>Connect on LinkedIn</sub></p>
+    </td>
+    <td width="25%" align="center" valign="top" style="padding: 15px;">
+      <br/>
+      <a href="https://vigneshaadepu7.netlify.app/">
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+      </a>
+      <br/><br/>
+      <p align="center"><b>Live Demos</b><br/><sub>Visit Personal Site</sub></p>
+    </td>
+    <td width="25%" align="center" valign="top" style="padding: 15px;">
+      <br/>
+      <a href="mailto:vigneshaadepu@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+      <br/><br/>
+      <p align="center"><b>Direct Inquiry</b><br/><sub>Send an Email</sub></p>
+    </td>
+    <td width="25%" align="center" valign="top" style="padding: 15px;">
+      <br/>
+      <a href="https://github.com/vigneshaadepu">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+      <br/><br/>
+      <p align="center"><b>Code Repos</b><br/><sub>Follow on GitHub</sub></p>
+    </td>
+  </tr>
+</table>
 
-<br/>
+<br/><br/>
 
----
+<table width="100%">
+  <tr>
+    <td style="padding: 22px; text-align: center;">
+      <p align="center">
+        <font size="3">💬 <i>"The best technology is the one that solves real problems for real people. Whether it's helping farmers fight crop diseases, detecting malnutrition in children, or safeguarding our planet — technology has the power to transform lives."</i></font>
+      </p>
+      <br/>
+      <p align="center"><b>— Vignesh Aadepu</b> &nbsp;&bull;&nbsp; <sub>AI & Cloud Technologist</sub></p>
+    </td>
+  </tr>
+</table>
 
-<i>"The best technology is the one that solves real problems for real people. Whether it's helping farmers fight crop diseases, detecting malnutrition in children, or safeguarding our planet — technology has the power to transform lives."</i>
+<br/><br/>
 
-<br/>
+<img src="https://img.shields.io/badge/Crafted%20with%20%E2%9D%A4%EF%B8%8F%20by-Vignesh%20Aadepu-FF5722?style=for-the-badge" alt="Crafted by Vignesh" />
 
-Made with ❤️ for a sustainable, equitable future.
+<br/><br/>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
 
 </div>

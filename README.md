@@ -358,7 +358,7 @@
 
 <!-- CARD 1: GITHUB STATS -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vigneshaadepu&show_icons=true&theme=tokyonight&hide_border=true&font=shantell-sans" alt="" width="85%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vigneshaadepu&show_icons=true&theme=tokyonight&hide_border=true" alt="" width="85%" />
 </div>
 
 <br/>
@@ -372,7 +372,7 @@
 
 <!-- CARD 3: MOST USED LANGUAGES -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshaadepu&theme=tokyonight&hide_border=true&font=shantell-sans&langs_count=8" alt="" width="85%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshaadepu&theme=tokyonight&hide_border=true" alt="" width="85%" />
 </div>
 
 <br/>

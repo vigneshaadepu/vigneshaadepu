@@ -358,31 +358,21 @@
 
 <!-- DYNAMIC GITHUB STATS & MOST USED LANGUAGES BOXES -->
 <p align="center">
-  <a href="#0">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vigneshaadepu&show_icons=true&theme=tokyonight&hide=issues" height="170" alt="GitHub Stats" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="#0">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vigneshaadepu&layout=compact&theme=tokyonight&card_width=445" height="170" alt="Most Used Languages" />
-  </a>
+  <a href="#0"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vigneshaadepu&show_icons=true&theme=tokyonight&hide=issues" height="170" alt="GitHub Stats" /></a>&nbsp;&nbsp;<a href="#0"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vigneshaadepu&layout=compact&theme=tokyonight&card_width=445&langs_count=6" height="170" alt="Most Used Languages" /></a>
 </p>
 
 <br/>
 
 <!-- CARD: STREAK STATS -->
 <div align="center">
-  <a href="#0">
-    <img src="https://streak-stats.demolab.com/?user=vigneshaadepu&theme=tokyonight&v=1" height="195" alt="Streak Stats" />
-  </a>
+  <a href="#0"><img src="https://streak-stats.demolab.com/?user=vigneshaadepu&theme=tokyonight&v=1" height="195" alt="Streak Stats" /></a>
 </div>
 
 <br/>
 
 <!-- CARD: CONTRIBUTION ACTIVITY GRAPH -->
 <div align="center">
-  <a href="#0">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshaadepu&theme=tokyo-night" alt="Activity Graph" width="85%" />
-  </a>
+  <a href="#0"><img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshaadepu&theme=tokyo-night" alt="Activity Graph" width="85%" /></a>
 </div>
 
 </div>

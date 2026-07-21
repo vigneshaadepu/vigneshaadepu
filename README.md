@@ -461,27 +461,27 @@
     <td width="20%" align="center" valign="top">
       <br/>
       <img src="https://img.shields.io/badge/🌍%20Impact-Driven-00D9FF?style=for-the-badge" alt="Impact Driven" /><br/><br/>
-      <sub>Engineering for tangible human solutions</sub>
+      <p align="center">Engineering for tangible human solutions</p>
     </td>
     <td width="20%" align="center" valign="top">
       <br/>
       <img src="https://img.shields.io/badge/♿%20Accessibility-4CAF50?style=for-the-badge" alt="Accessibility" /><br/><br/>
-      <sub>Inclusive tech for all communities</sub>
+      <p align="center">Inclusive tech for all communities</p>
     </td>
     <td width="20%" align="center" valign="top">
       <br/>
       <img src="https://img.shields.io/badge/🔓%20Open%20Source-9C27B0?style=for-the-badge" alt="Open Source" /><br/><br/>
-      <sub>Shared research & open collaboration</sub>
+      <p align="center">Shared research & open collaboration</p>
     </td>
     <td width="20%" align="center" valign="top">
       <br/>
       <img src="https://img.shields.io/badge/⭐%20Excellence-FF9900?style=for-the-badge" alt="Excellence" /><br/><br/>
-      <sub>Sub-100ms latency & high uptime</sub>
+      <p align="center">Sub-100ms latency & high uptime</p>
     </td>
     <td width="20%" align="center" valign="top">
       <br/>
       <img src="https://img.shields.io/badge/🌱%20Sustainability-E91E63?style=for-the-badge" alt="Sustainability" /><br/><br/>
-      <sub>Technology for a greener planet</sub>
+      <p align="center">Technology for a greener planet</p>
     </td>
   </tr>
 </table>

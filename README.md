@@ -31,14 +31,56 @@
 <!-- SECTION B: ABOUT ME -->
 ## 🧑‍💻 About Me
 
-I'm a **Full-Stack AI Engineer & Sustainability Technologist** who builds production-grade AI-powered platforms tackling the world's most critical challenges — sustainability, agriculture, and healthcare. I bridge the gap between cutting-edge deep learning research and real-world deployable systems.
+<div align="center">
 
-- 🔭 **Building** AI-powered platforms for sustainability, agriculture, and healthcare
-- 🌱 **Exploring** Environmental Intelligence, Precision Agriculture, and Clinical AI
-- 💡 **Combining** Deep Learning + IoT + Real-time Analytics for global challenges
-- 🎯 **Committed** to open-source development and knowledge sharing
-- 📚 **Learning** Reinforcement Learning, Advanced NLP, and Edge AI
-- ⚡ **Fun fact:** I believe technology should solve real problems — sustainability, food security, and health equity are my north star
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Sustainability" width="48" /><br/><br/>
+      <b>🌍 Sustainability Tech</b><br/>
+      <sub>Climate Modeling & Digital Twins</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Food/Sheaf%20of%20Rice.png" alt="Agriculture" width="48" /><br/><br/>
+      <b>🌾 Precision Agriculture</b><br/>
+      <sub>Crop Intelligence & Disease Detection</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Ankan/Animated-Fluent-Emojis/master/Emojis/Activities/Microscope.png" alt="Healthcare" width="48" /><br/><br/>
+      <b>🏥 Clinical AI</b><br/>
+      <sub>On-Device Biometrics & Child Health</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+> 💡 **Who I Am:** I'm a **Full-Stack AI Engineer & Sustainability Technologist** bridging the gap between cutting-edge deep learning research and production-grade deployable systems that tackle humanity's most pressing challenges.
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ What I'm Doing</h4>
+      <ul>
+        <li>🔭 <b>Building:</b> AI-powered platforms for sustainability, agriculture & healthcare</li>
+        <li>🌱 <b>Exploring:</b> Environmental Intelligence & Edge AI systems</li>
+        <li>💡 <b>Combining:</b> Deep Learning + IoT + Real-time Analytics</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎯 Goals & Mindset</h4>
+      <ul>
+        <li>🎯 <b>Commitment:</b> Dedicated to open-source & knowledge sharing</li>
+        <li>📚 <b>Learning:</b> Reinforcement Learning, Advanced NLP & Edge AI</li>
+        <li>⚡ <b>North Star:</b> Technology must create real-world, positive impact</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
